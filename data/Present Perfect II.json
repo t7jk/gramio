@@ -201,5 +201,22 @@
       ],
       "correct": 0
     }
-  ]
+  ],
+  "theory": {
+    "explanation": "Present Perfect – czas teraźniejszy doskonały\n\nBudowa: have / has + past participle (3. forma czasownika)\n\nKiedy używamy:\n  • Doświadczenia życiowe (ever, never): \"Have you ever been abroad?\"\n  • Czynności właśnie zakończone (just, already): \"I've just finished.\"\n  • Skutek widoczny teraz: \"She has lost her keys.\" (i wciąż ich nie ma)\n  • Czas trwający do teraz (for, since): \"I've lived here for ten years.\"\n\nFormy:\n  Twierdzące:  I/You/We/They have + pp    |  He/She/It has + pp\n  Przeczące:   haven't + pp               |  hasn't + pp\n  Pytania:     Have + podmiot + pp?        |  Has + podmiot + pp?",
+    "examples": [
+      {
+        "sentence": "He's found a great new job.",
+        "explanation": "Twierdzące: he + has (= he's) + found (pp od 'find'). Skutek widoczny teraz."
+      },
+      {
+        "sentence": "Have you ever ridden a horse?",
+        "explanation": "Pytanie z ever: Have + you + ridden (pp od 'ride'). Ever stoi po have/has."
+      },
+      {
+        "sentence": "She hasn't passed her driving test yet.",
+        "explanation": "Przeczące: she + hasn't + passed + yet. Yet = jeszcze nie – zawsze na końcu."
+      }
+    ]
+  }
 }

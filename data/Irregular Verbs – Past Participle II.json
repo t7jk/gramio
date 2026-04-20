@@ -201,5 +201,22 @@
       ],
       "correct": 0
     }
-  ]
+  ],
+  "theory": {
+    "explanation": "Nieregularne formy Past Participle – część II\n\nDwa ważne wzorce:\n\nA) Past simple = Past participle (dwie formy):\n  hear  → heard → heard     pay  → paid → paid\n  lose  → lost  → lost      send → sent → sent\n  build → built → built     buy  → bought → bought\n  catch → caught → caught   spend → spent → spent\n\nB) Trzy różne formy:\n  write → wrote → written   speak → spoke → spoken\n  fall  → fell  → fallen    drive → drove → driven\n  break → broke → broken    wear  → wore  → worn\n  choose → chose → chosen   fly   → flew  → flown\n  throw → threw → thrown    eat   → ate   → eaten\n  run   → ran   → run",
+    "examples": [
+      {
+        "sentence": "I haven't written to her in ages.",
+        "explanation": "write → wrote → written (3 różne formy). Past participle = written, nie 'wrote'!"
+      },
+      {
+        "sentence": "She's already sent the email.",
+        "explanation": "send → sent → sent (past simple = past participle). Obie formy brzą tak samo."
+      },
+      {
+        "sentence": "Have you eaten anything today?",
+        "explanation": "eat → ate → eaten (3 różne formy). Past participle = eaten, nie 'ate'!"
+      }
+    ]
+  }
 }

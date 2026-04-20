@@ -201,5 +201,22 @@
       ],
       "correct": 2
     }
-  ]
+  ],
+  "theory": {
+    "explanation": "Nieregularne formy Past Participle – część III\n\nWzorce do zapamiętania:\n\nWzorzec -ing → -ung (sing, drink, swim):\n  drink → drank → drunk\n  sing  → sang  → sung\n  swim  → swam  → swum\n\nFormy z końcówką -en:\n  forget → forgot  → forgotten\n  hide   → hid     → hidden\n  bite   → bit     → bitten\n  ride   → rode    → ridden\n  wake   → woke    → woken\n\nPozostałe:\n  hold  → held     win   → won     teach → taught\n  sleep → slept    sell  → sold     blow  → blown\n  freeze → frozen  tear  → torn     steal → stolen\n  shoot → shot     lend  → lent     bend  → bent",
+    "examples": [
+      {
+        "sentence": "Has he ever drunk champagne before?",
+        "explanation": "drink → drank → drunk (nie: 'drinked'!). Wzorzec: -ink → -unk."
+      },
+      {
+        "sentence": "She has sung in many famous venues.",
+        "explanation": "sing → sang → sung (nie: 'singed'!). Wzorzec: -ing → -ung."
+      },
+      {
+        "sentence": "Have you ever ridden a motorbike?",
+        "explanation": "ride → rode → ridden (forma z -en). Nie mylić z past simple: rode!"
+      }
+    ]
+  }
 }

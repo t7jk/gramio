@@ -201,5 +201,22 @@
       ],
       "correct": 1
     }
-  ]
+  ],
+  "theory": {
+    "explanation": "Future Perfect – czas przyszły doskonały\n\nBudowa: will have + past participle (3. forma czasownika)\nSkrót: I'll have, she'll have...\n\nKiedy używamy:\nOpisujemy czynność, która zostanie zakończona PRZED określonym momentem w przyszłości.\n\nTypowe wyrażenia czasu:\n  by next year, by the time, by 2030, by Friday, before the meeting\n\nFormy:\n  Twierdzące:  podmiot + will have + pp\n  Przeczące:   podmiot + won't have + pp\n  Pytania:     Will + podmiot + have + pp?",
+    "examples": [
+      {
+        "sentence": "By next year, I will have finished my studies.",
+        "explanation": "Twierdzące: will have + finished (pp). Czynność zakończona przed \"next year\"."
+      },
+      {
+        "sentence": "They will not have finished dinner before we arrive.",
+        "explanation": "Przeczące: won't have + finished. Czynność NIE zostanie zakończona przed danym momentem."
+      },
+      {
+        "sentence": "Will you have eaten by 7 pm?",
+        "explanation": "Pytanie: Will + podmiot + have + past participle? Czy czynność będzie zakończona przed podanym czasem?"
+      }
+    ]
+  }
 }

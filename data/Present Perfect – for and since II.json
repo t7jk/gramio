@@ -201,5 +201,22 @@
       ],
       "correct": 2
     }
-  ]
+  ],
+  "theory": {
+    "explanation": "FOR i SINCE w Present Perfect\n\nObu używamy z Present Perfect, by opisać jak długo coś trwa.\n\nFOR + przedział czasu (jak długo?):\n  for two hours, for ten years, for a long time, for ages\n\nSINCE + punkt w czasie (od kiedy?):\n  since Monday, since 2010, since I was a child, since breakfast\n\nWskazówka: zapytaj siebie:\n  \"Jak długo?\" → FOR\n  \"Od kiedy?\" → SINCE",
+    "examples": [
+      {
+        "sentence": "He hasn't called me for weeks.",
+        "explanation": "FOR + okres czasu (weeks). Jak długo nie dzwonił?"
+      },
+      {
+        "sentence": "It hasn't rained here since March.",
+        "explanation": "SINCE + punkt w czasie (March). Od kiedy nie pada?"
+      },
+      {
+        "sentence": "I have known him since we were at school.",
+        "explanation": "SINCE + zdanie podrzędne (since + subject + verb). Od kiedy go znam?"
+      }
+    ]
+  }
 }

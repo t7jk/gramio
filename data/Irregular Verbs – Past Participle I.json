@@ -201,5 +201,22 @@
       ],
       "correct": 1
     }
-  ]
+  ],
+  "theory": {
+    "explanation": "Nieregularne formy Past Participle – część I (najczęstsze)\n\nPast Participle (3. forma) używamy z have/has/had w czasach Perfect.\nCzasowniki nieregularne NIE tworzą Past Participle przez dodanie -ed!\n\nNajważniejsze czasowniki:\n  be   → been       have  → had        do    → done\n  go   → gone       say   → said        get   → got\n  make → made       know  → known       think → thought\n  take → taken      see   → seen        come  → come\n  give → given      find  → found       tell  → told\n  leave → left      feel  → felt        bring → brought\n  begin → begun     keep  → kept",
+    "examples": [
+      {
+        "sentence": "I've never been to Japan before.",
+        "explanation": "be → been (nie: 'be-d' ani 'was'). Forma been używana z have/has/had."
+      },
+      {
+        "sentence": "She has done her homework.",
+        "explanation": "do → done (nie: 'did' ani 'do-d'). Done = 3. forma, used with has."
+      },
+      {
+        "sentence": "Have you found your keys yet?",
+        "explanation": "find → found (nie: 'finded'). Found = past simple AND past participle."
+      }
+    ]
+  }
 }

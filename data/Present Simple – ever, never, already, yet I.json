@@ -201,5 +201,22 @@
       ],
       "correct": 1
     }
-  ]
+  ],
+  "theory": {
+    "explanation": "Przysłówki w Present Perfect: ever, never, already, yet\n\nEVER = kiedykolwiek\n  → w pytaniach, po have/has: \"Have you ever been to Japan?\"\n\nNEVER = nigdy\n  → w zdaniach twierdzących (samo w sobie jest przeczeniem!)\n  → po have/has: \"I have never eaten sushi.\"\n\nALREADY = już (wcześniej niż oczekiwano)\n  → w twierdzeniach, po have/has: \"She has already left.\"\n\nYET = jeszcze nie / już (w pytaniach)\n  → na końcu zdania przeczącego lub pytającego\n  → \"I haven't finished yet.\"  /  \"Has he arrived yet?\"",
+    "examples": [
+      {
+        "sentence": "Do you ever watch films in English?",
+        "explanation": "EVER w pytaniu z do/does. Stoi po do/does, przed czasownikiem głównym."
+      },
+      {
+        "sentence": "I've already done the washing up.",
+        "explanation": "ALREADY w twierdzeniu. Stoi po have/has, przed past participle."
+      },
+      {
+        "sentence": "Have you had a shower yet?",
+        "explanation": "YET w pytaniu. Stoi na końcu zdania."
+      }
+    ]
+  }
 }

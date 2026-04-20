@@ -201,5 +201,22 @@
       ],
       "correct": 0
     }
-  ]
+  ],
+  "theory": {
+    "explanation": "Nieregularne formy Past Participle – część V (zaawansowane)\n\nRzadziej spotykane, ale ważne formy:\n  mean   → meant      become → become     shine  → shone\n  spell  → spelt      weep   → wept       kneel  → knelt\n  spill  → spilt      hang   → hung        beat   → beaten\n  swear  → sworn      forbid → forbidden  forgive → forgiven\n  strike → struck     shrink → shrunk     bind   → bound\n  dig    → dug        grind  → ground     spring → sprung\n  stick  → stuck      withdraw → withdrawn\n\nUwaga: become → became → become (past participle = infinitive)\nUwaga: beat → beat/beaten (dwie akceptowane formy pp)",
+    "examples": [
+      {
+        "sentence": "She has become a very successful lawyer.",
+        "explanation": "become → became → become. Past participle = infinitive! (nie: 'became' jako pp)"
+      },
+      {
+        "sentence": "They have forbidden entry to the building.",
+        "explanation": "forbid → forbade → forbidden. Końcówka -en, jak hidden, ridden."
+      },
+      {
+        "sentence": "The workers have dug a very deep hole.",
+        "explanation": "dig → dug → dug. Past simple = past participle = dug (nie: 'digged')."
+      }
+    ]
+  }
 }

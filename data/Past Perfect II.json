@@ -201,5 +201,22 @@
       ],
       "correct": 0
     }
-  ]
+  ],
+  "theory": {
+    "explanation": "Past Perfect – czas przeszły doskonały\n\nBudowa: had + past participle (3. forma czasownika)\nSkrót: I'd, she'd, they'd...\n\nKiedy używamy:\nOpisujemy czynność, która zakończyła się PRZED inną czynnością w przeszłości.\nPast Perfect = \"wcześniejsza przeszłość\"\n\nSłowa kluczowe: before, after, when, by the time, already, just, never\n\nFormy:\n  Twierdzące:  podmiot + had + pp\n  Przeczące:   podmiot + hadn't + pp\n  Pytania:     Had + podmiot + pp?",
+    "examples": [
+      {
+        "sentence": "They were late because they had missed the train.",
+        "explanation": "Missed (Past Perfect) = przyczyna. Była to wcześniejsza czynność, before being late."
+      },
+      {
+        "sentence": "I felt sick because I had eaten too much.",
+        "explanation": "Had eaten (Past Perfect) → wcześniej. Felt sick (Past Simple) → skutek."
+      },
+      {
+        "sentence": "Had she spoken to the manager before she resigned?",
+        "explanation": "Pytanie: Had + podmiot + spoken. Czy ta czynność wydarzyła się przed inną?"
+      }
+    ]
+  }
 }

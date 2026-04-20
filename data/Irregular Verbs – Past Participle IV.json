@@ -201,5 +201,22 @@
       ],
       "correct": 1
     }
-  ]
+  ],
+  "theory": {
+    "explanation": "Nieregularne formy Past Participle – część IV\n\nWażna grupa: czasowniki niezmienne (wszystkie formy takie same):\n  cut   → cut   → cut      put  → put  → put\n  let   → let   → let      set  → set  → set\n  hit   → hit   → hit      hurt → hurt → hurt\n  spread → spread → spread  read → read → read*\n  (*read wymawia się /red/ w past simple i past participle)\n\nPozostałe z tej części:\n  deal  → dealt    sweep → swept    creep → crept\n  grow  → grown    draw  → drawn    rise  → risen\n  show  → shown    shake → shaken   stand → stood\n  meet  → met      sit   → sat      lead  → led",
+    "examples": [
+      {
+        "sentence": "She has set a new world record!",
+        "explanation": "set → set → set. Wszystkie trzy formy identyczne – uważaj, żeby nie dodać -ed!"
+      },
+      {
+        "sentence": "Have you ever met a celebrity?",
+        "explanation": "meet → met → met. Past simple = past participle = met (nie: 'meeted')."
+      },
+      {
+        "sentence": "Temperatures have risen significantly.",
+        "explanation": "rise → rose → risen (3 różne formy). Nie mylić z raised (= podnosić coś)."
+      }
+    ]
+  }
 }

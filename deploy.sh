@@ -1,4 +1,6 @@
 #!/bin/bash
+# Deploy aplikacji EngLearn na katalog WWW.
+# NIE kopiujemy profiles/ — na serwerze zostają konta i postępy użytkowników.
 SRC=~/englearn
 DST=/var/www/html/englearn
 

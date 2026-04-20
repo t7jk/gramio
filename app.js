@@ -226,6 +226,7 @@ async function handleAnswer(correct, chosenIdx, q) {
 
   if (correct) {
     chosen.classList.add('correct');
+    buttons.forEach(b => { if (b !== chosen) b.classList.add('hidden'); });
     feedback.textContent = '✓ Correct!';
     feedback.className = 'feedback correct-msg';
   } else {
@@ -246,7 +247,9 @@ async function handleAnswer(correct, chosenIdx, q) {
   }
 
   if (lessonQuestions.length === 0) {
-    showDone();
+    if (correct) setTimeout(showDone, 3000); else showDone();
+  } else if (correct) {
+    setTimeout(() => { btnNext.classList.add('hidden'); showQuestion(); }, 3000);
   } else {
     btnNext.classList.remove('hidden');
   }

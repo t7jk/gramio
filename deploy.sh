@@ -8,4 +8,6 @@ cp "$SRC/app.js"     "$DST/app.js"
 cp "$SRC/style.css"  "$DST/style.css"
 cp -r "$SRC/data/"   "$DST/data/"
 
+chmod o+w "$DST/profiles/"
+
 echo "Deploy gotowy."

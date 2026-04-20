@@ -230,7 +230,7 @@ async function handleAnswer(correct, chosenIdx, q) {
     feedback.textContent = '✓ Correct!';
     feedback.className = 'feedback correct-msg';
   } else {
-    chosen.classList.add('wrong');
+    buttons.forEach(b => { if (b !== correctBtn) b.classList.add('hidden'); });
     correctBtn.classList.add('correct');
     feedback.textContent = `✗ Wrong! Correct: "${q.answers[q.correct]}"`;
     feedback.className = 'feedback wrong-msg';

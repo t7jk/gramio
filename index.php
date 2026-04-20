@@ -61,6 +61,16 @@
       </div>
       <div class="progress-bar-wrap"><div id="progress-bar" class="progress-bar"></div></div>
 
+      <div id="theory-view" class="hidden">
+        <div id="theory-text" class="theory-text"></div>
+        <button class="btn btn-primary btn-full" id="btn-theory-next">Dalej →</button>
+      </div>
+
+      <div id="examples-view" class="hidden">
+        <div id="examples-list" class="examples-list"></div>
+        <button class="btn btn-primary btn-full" id="btn-examples-next">Dalej →</button>
+      </div>
+
       <div id="question-area">
         <div id="question-text" class="question-text"></div>
         <div id="answers-grid" class="answers-grid"></div>

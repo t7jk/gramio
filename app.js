@@ -23,9 +23,13 @@ const progressBar  = document.getElementById('progress-bar');
 const questionText = document.getElementById('question-text');
 const answersGrid  = document.getElementById('answers-grid');
 const feedback     = document.getElementById('feedback');
-const btnNext      = document.getElementById('btn-next');
-const questionArea = document.getElementById('question-area');
-const lessonDone   = document.getElementById('lesson-done');
+const btnNext        = document.getElementById('btn-next');
+const questionArea   = document.getElementById('question-area');
+const lessonDone     = document.getElementById('lesson-done');
+const theoryView     = document.getElementById('theory-view');
+const examplesView   = document.getElementById('examples-view');
+const theoryText     = document.getElementById('theory-text');
+const examplesList   = document.getElementById('examples-list');
 const modalProfile = document.getElementById('modal-profile');
 
 // ---- Utilities ----
@@ -168,12 +172,28 @@ async function startLesson(file, title) {
   lessonTotal = data.total;
   lessonLearned = data.learned;
 
-  lessonStartTime = Date.now();
   lessonTitleBar.textContent = title;
-  questionArea.classList.remove('hidden');
+  questionArea.classList.add('hidden');
+  theoryView.classList.add('hidden');
+  examplesView.classList.add('hidden');
   lessonDone.classList.add('hidden');
   showScreen('lesson');
-  showQuestion();
+
+  if (data.theory) {
+    theoryText.textContent = data.theory.explanation;
+    examplesList.innerHTML = '';
+    data.theory.examples.forEach(ex => {
+      const card = document.createElement('div');
+      card.className = 'example-card';
+      card.innerHTML = `<div class="example-sentence">${ex.sentence}</div><div class="example-explanation">${ex.explanation}</div>`;
+      examplesList.appendChild(card);
+    });
+    theoryView.classList.remove('hidden');
+  } else {
+    lessonStartTime = Date.now();
+    questionArea.classList.remove('hidden');
+    showQuestion();
+  }
 }
 
 let keyHandler = null;
@@ -257,6 +277,18 @@ async function handleAnswer(correct, chosenIdx, q) {
 
 btnNext.addEventListener('click', () => {
   btnNext.classList.add('hidden');
+  showQuestion();
+});
+
+document.getElementById('btn-theory-next').addEventListener('click', () => {
+  theoryView.classList.add('hidden');
+  examplesView.classList.remove('hidden');
+});
+
+document.getElementById('btn-examples-next').addEventListener('click', () => {
+  examplesView.classList.add('hidden');
+  lessonStartTime = Date.now();
+  questionArea.classList.remove('hidden');
   showQuestion();
 });
 

@@ -77,7 +77,8 @@ if ($action === 'lesson' && $method === 'GET') {
     $questions = array_filter($data['questions'], fn($q) => !in_array($q['id'], $learned));
     $questions = array_values($questions);
     shuffle($questions);
-    jsonResponse(['title' => $data['title'], 'questions' => $questions, 'total' => count($data['questions']), 'learned' => count($learned)]);
+    $theory = $data['theory'] ?? null;
+    jsonResponse(['title' => $data['title'], 'questions' => $questions, 'total' => count($data['questions']), 'learned' => count($learned), 'theory' => $theory]);
 }
 
 if ($action === 'answer' && $method === 'POST') {

@@ -1,0 +1,205 @@
+{
+  "title": "Present Simple – ever, never, already, yet II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Does your dog ___ sleep on the sofa?",
+      "answers": [
+        "yet",
+        "ever",
+        "never"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "She ___ uses the dishwasher.",
+      "answers": [
+        "ever",
+        "never",
+        "already"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "I've ___ had three cups of coffee today.",
+      "answers": [
+        "never",
+        "already",
+        "yet"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "I haven't finished the report ___.",
+      "answers": [
+        "already",
+        "yet",
+        "ever"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "Do you ___ dream in English?",
+      "answers": [
+        "never",
+        "ever",
+        "already"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "We ___ argue about little things.",
+      "answers": [
+        "already",
+        "never",
+        "yet"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "The results are ___ out.",
+      "answers": [
+        "yet",
+        "already",
+        "never"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "Have you spoken to your manager ___?",
+      "answers": [
+        "already",
+        "ever",
+        "yet"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": "Do you ___ feel like giving up?",
+      "answers": [
+        "never",
+        "already",
+        "ever"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "I ___ drink coffee in the evening.",
+      "answers": [
+        "yet",
+        "ever",
+        "never"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "They've ___ booked the hotel.",
+      "answers": [
+        "ever",
+        "yet",
+        "already"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": "We haven't decided where to go ___.",
+      "answers": [
+        "already",
+        "never",
+        "yet"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "Does he ___ ask for directions?",
+      "answers": [
+        "never",
+        "yet",
+        "ever"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": "She ___ talks about her past.",
+      "answers": [
+        "already",
+        "ever",
+        "never"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": "He's ___ answered all the questions.",
+      "answers": [
+        "yet",
+        "never",
+        "already"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "Has the postman been ___?",
+      "answers": [
+        "ever",
+        "already",
+        "yet"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "Do you ___ walk to work?",
+      "answers": [
+        "never",
+        "yet",
+        "ever"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": "He ___ forgets to say thank you.",
+      "answers": [
+        "yet",
+        "already",
+        "never"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": "I've ___ spent my whole salary this month!",
+      "answers": [
+        "ever",
+        "yet",
+        "already"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "I haven't read the last chapter ___.",
+      "answers": [
+        "already",
+        "ever",
+        "yet"
+      ],
+      "correct": 2
+    }
+  ]
+}

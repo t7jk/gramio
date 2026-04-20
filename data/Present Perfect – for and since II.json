@@ -1,0 +1,205 @@
+{
+  "title": "Present Perfect – for and since II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "He hasn't called me ___ weeks.",
+      "answers": [
+        "ago",
+        "for",
+        "since"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "It hasn't rained here ___ March.",
+      "answers": [
+        "for",
+        "since",
+        "in"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "I've had this phone ___ two years.",
+      "answers": [
+        "since",
+        "for",
+        "ago"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "They've lived next door ___ we moved in.",
+      "answers": [
+        "for",
+        "since",
+        "when"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "She's been studying medicine ___ four years.",
+      "answers": [
+        "since",
+        "for",
+        "during"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "I haven't been to the cinema ___ Christmas.",
+      "answers": [
+        "for",
+        "since",
+        "at"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "He's been waiting in the queue ___ an hour.",
+      "answers": [
+        "since",
+        "for",
+        "ago"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "We haven't spoken ___ the wedding.",
+      "answers": [
+        "for",
+        "ago",
+        "since"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": "She's been a nurse ___ fifteen years.",
+      "answers": [
+        "since",
+        "ago",
+        "for"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "He has played guitar ___ he was a teenager.",
+      "answers": [
+        "for",
+        "during",
+        "since"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "They've been on holiday ___ a week.",
+      "answers": [
+        "since",
+        "ago",
+        "for"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": "I've been feeling unwell ___ yesterday.",
+      "answers": [
+        "for",
+        "during",
+        "since"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "She hasn't eaten anything ___ two days.",
+      "answers": [
+        "since",
+        "ago",
+        "for"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": "He hasn't visited his parents ___ last summer.",
+      "answers": [
+        "for",
+        "in",
+        "since"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": "We've been together ___ three years.",
+      "answers": [
+        "since",
+        "ago",
+        "for"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "I have known him ___ we were at school.",
+      "answers": [
+        "for",
+        "during",
+        "since"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "She's been off work ___ a month.",
+      "answers": [
+        "since",
+        "ago",
+        "for"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": "They haven't been in touch ___ the funeral.",
+      "answers": [
+        "for",
+        "in",
+        "since"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": "He's been saving money ___ years.",
+      "answers": [
+        "since",
+        "ago",
+        "for"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "I've felt much better ___ I started exercising.",
+      "answers": [
+        "for",
+        "during",
+        "since"
+      ],
+      "correct": 2
+    }
+  ]
+}

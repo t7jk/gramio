@@ -1,0 +1,205 @@
+{
+  "title": "Irregular Verbs – Past Participle III",
+  "questions": [
+    {
+      "id": 1,
+      "question": "I've ___ (forget) his phone number.",
+      "answers": [
+        "forgot",
+        "forgotten",
+        "forgetting"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "She has ___ (hold) this position for ten years.",
+      "answers": [
+        "hold",
+        "holding",
+        "held"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": "He's ___ (win) every match this season.",
+      "answers": [
+        "won",
+        "winned",
+        "winning"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "She has ___ (teach) English for 20 years.",
+      "answers": [
+        "teached",
+        "taught",
+        "teaching"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "Have you ___ (sleep) well lately?",
+      "answers": [
+        "sleep",
+        "sleeping",
+        "slept"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": "They've ___ (sell) their old house.",
+      "answers": [
+        "sold",
+        "selled",
+        "selling"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "Has he ever ___ (drink) champagne before?",
+      "answers": [
+        "drank",
+        "drunk",
+        "drinking"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "She has ___ (sing) in many famous venues.",
+      "answers": [
+        "sang",
+        "singing",
+        "sung"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": "Have you ever ___ (swim) in the ocean?",
+      "answers": [
+        "swum",
+        "swam",
+        "swimming"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": "Someone has ___ (steal) my bag!",
+      "answers": [
+        "stole",
+        "stolen",
+        "stealing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "Where has he ___ (hide) the keys?",
+      "answers": [
+        "hid",
+        "hiding",
+        "hidden"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": "Have you ever ___ (ride) a motorbike?",
+      "answers": [
+        "ridden",
+        "rode",
+        "riding"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "question": "Has the dog ever ___ (bite) anyone?",
+      "answers": [
+        "bit",
+        "bitten",
+        "biting"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "The wind has ___ (blow) down several trees.",
+      "answers": [
+        "blew",
+        "blowing",
+        "blown"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": "The pipes have ___ (freeze) again this winter.",
+      "answers": [
+        "frozen",
+        "froze",
+        "freezing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": "She has ___ (tear) the letter into pieces.",
+      "answers": [
+        "tore",
+        "torn",
+        "tearing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "Has she ___ (wake) up yet?",
+      "answers": [
+        "woke",
+        "waking",
+        "woken"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": "He has ___ (shoot) several award-winning films.",
+      "answers": [
+        "shot",
+        "shooted",
+        "shooting"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": "Has anyone ever ___ (lend) him money?",
+      "answers": [
+        "lended",
+        "lent",
+        "lending"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "He has ___ (bend) the rules too many times.",
+      "answers": [
+        "bend",
+        "bending",
+        "bent"
+      ],
+      "correct": 2
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Past Perfect II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "They were late because they ___ missed the train.",
+      "answers": [
+        "have",
+        "has",
+        "had"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": "Before she became a teacher, she ___ worked as an actress.",
+      "answers": [
+        "had",
+        "has",
+        "have"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "Had he ___ the contract before he signed it?",
+      "answers": [
+        "reading",
+        "read",
+        "reads"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "I felt sick because I ___ eaten too much.",
+      "answers": [
+        "have",
+        "has",
+        "had"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "She hadn't ___ anyone at the party before that night.",
+      "answers": [
+        "met",
+        "meet",
+        "meeting"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": "He'd never ___ such beautiful music before that concert.",
+      "answers": [
+        "hearing",
+        "heard",
+        "hear"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "After she'd ___ university, she travelled the world.",
+      "answers": [
+        "finish",
+        "finishing",
+        "finished"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "We'd just ___ when it started to rain heavily.",
+      "answers": [
+        "arrived",
+        "arrive",
+        "arriving"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "Had they ___ the meeting before we got there?",
+      "answers": [
+        "starting",
+        "started",
+        "start"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "I realized I'd ___ a terrible mistake.",
+      "answers": [
+        "make",
+        "making",
+        "made"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "She was crying because she ___ lost her purse.",
+      "answers": [
+        "had",
+        "has",
+        "have"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "Before the accident, he ___ never broken a bone.",
+      "answers": [
+        "has",
+        "had",
+        "have"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "___ she spoken to the manager before she resigned?",
+      "answers": [
+        "Have",
+        "Has",
+        "Had"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": "By 2010, they ___ already built three new schools.",
+      "answers": [
+        "had",
+        "have",
+        "has"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": "I'd ___ her name by the time I saw her again.",
+      "answers": [
+        "forgetting",
+        "forgotten",
+        "forget"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "After the guests ___ left, we cleaned the whole house.",
+      "answers": [
+        "have",
+        "has",
+        "had"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "He was surprised because no one ___ told him the news.",
+      "answers": [
+        "had",
+        "has",
+        "have"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": "I hadn't ___ the film, so I didn't know the ending.",
+      "answers": [
+        "see",
+        "seen",
+        "saw"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "By the time she was 30, she ___ lived in five different countries.",
+      "answers": [
+        "have",
+        "has",
+        "had"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "The house was empty. Everyone ___ already gone home.",
+      "answers": [
+        "had",
+        "has",
+        "have"
+      ],
+      "correct": 0
+    }
+  ]
+}

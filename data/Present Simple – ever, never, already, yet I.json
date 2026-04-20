@@ -1,0 +1,205 @@
+{
+  "title": "Present Simple – ever, never, already, yet I",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Do you ___ watch films in English?",
+      "answers": [
+        "ever",
+        "never",
+        "yet"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "I ___ eat breakfast before 7 am.",
+      "answers": [
+        "never",
+        "ever",
+        "yet"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "I've ___ done the washing up.",
+      "answers": [
+        "already",
+        "yet",
+        "ever"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "Have you had a shower ___?",
+      "answers": [
+        "yet",
+        "already",
+        "ever"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "Does she ___ go to church?",
+      "answers": [
+        "ever",
+        "already",
+        "yet"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": "She ___ borrows things without asking.",
+      "answers": [
+        "never",
+        "already",
+        "ever"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "He's ___ left for work.",
+      "answers": [
+        "already",
+        "yet",
+        "never"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": "I haven't made up my mind ___.",
+      "answers": [
+        "yet",
+        "already",
+        "ever"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "Do they ___ go to bed before midnight?",
+      "answers": [
+        "ever",
+        "yet",
+        "never"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": "He ___ reads the instructions first.",
+      "answers": [
+        "never",
+        "yet",
+        "ever"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": "She has ___ packed her suitcase.",
+      "answers": [
+        "already",
+        "yet",
+        "ever"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "Has the taxi arrived ___?",
+      "answers": [
+        "yet",
+        "ever",
+        "already"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "question": "Do you ___ take sugar in your coffee?",
+      "answers": [
+        "ever",
+        "never",
+        "already"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "They ___ miss Sunday dinner.",
+      "answers": [
+        "ever",
+        "never",
+        "yet"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "The film has ___ started.",
+      "answers": [
+        "yet",
+        "already",
+        "ever"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "Haven't you eaten ___?",
+      "answers": [
+        "ever",
+        "yet",
+        "already"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "Does he ___ complain about anything?",
+      "answers": [
+        "never",
+        "ever",
+        "yet"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "I ___ go anywhere without my phone.",
+      "answers": [
+        "already",
+        "never",
+        "ever"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "We've ___ seen this episode.",
+      "answers": [
+        "yet",
+        "already",
+        "never"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "Has she replied to your message ___?",
+      "answers": [
+        "already",
+        "yet",
+        "ever"
+      ],
+      "correct": 1
+    }
+  ]
+}

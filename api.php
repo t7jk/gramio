@@ -28,7 +28,7 @@ function saveProfile($profile) {
 }
 
 function sessionUser() {
-    $u = $_SESSION['gramio_user'] ?? '';
+    $u = $_SESSION['englearn_user'] ?? '';
     return is_string($u) ? trim($u) : '';
 }
 
@@ -39,9 +39,8 @@ function requireSessionUser() {
 }
 
 function validateUserName($name) {
-    $name = strtolower(trim($name));
+    $name = trim($name);
     if ($name === '' || strlen($name) > 50) return null;
-    if (!preg_match('/^[a-z0-9_\-]+$/', $name)) return null;
     return $name;
 }
 
@@ -85,7 +84,7 @@ if ($action === 'register' && $method === 'POST') {
         'points' => 0,
     ];
     saveProfile($profile);
-    $_SESSION['gramio_user'] = $name;
+    $_SESSION['englearn_user'] = $name;
     jsonResponse(['success' => true, 'user' => $name]);
 }
 
@@ -101,7 +100,7 @@ if ($action === 'login' && $method === 'POST') {
         jsonResponse(['error' => 'Invalid username or PIN'], 401);
     }
 
-    $_SESSION['gramio_user'] = $name;
+    $_SESSION['englearn_user'] = $name;
     jsonResponse(['success' => true, 'user' => $name]);
 }
 
@@ -209,11 +208,9 @@ if ($action === 'reset_lesson' && $method === 'POST') {
     if (isset($profile['lessons'][$lessonTitle])) {
         $pts = $profile['lessons'][$lessonTitle]['points'] ?? 0;
         $timeMs = $profile['lessons'][$lessonTitle]['time_ms'] ?? 0;
-        $errors = $profile['lessons'][$lessonTitle]['errors'] ?? 0;
         $profile['points'] = max(0, ($profile['points'] ?? 0) - $pts);
         $profile['total_time_ms'] = max(0, ($profile['total_time_ms'] ?? 0) - $timeMs);
-        $profile['total_errors'] = max(0, ($profile['total_errors'] ?? 0) - $errors);
-        $profile['lessons'][$lessonTitle] = ['learned' => [], 'points' => 0, 'time_ms' => 0, 'errors' => 0];
+        $profile['lessons'][$lessonTitle] = ['learned' => [], 'points' => 0, 'time_ms' => 0];
         saveProfile($profile);
     }
     jsonResponse(['success' => true]);
@@ -227,10 +224,9 @@ if ($action === 'profile' && $method === 'GET') {
     foreach ($lessons as $l) {
         $learned = count($profile['lessons'][$l['title']]['learned'] ?? []);
         $timeMs = $profile['lessons'][$l['title']]['time_ms'] ?? 0;
-        $errors = $profile['lessons'][$l['title']]['errors'] ?? 0;
-        $stats[] = ['title' => $l['title'], 'total' => $l['total'], 'learned' => $learned, 'time_ms' => $timeMs, 'errors' => $errors];
+        $stats[] = ['title' => $l['title'], 'total' => $l['total'], 'learned' => $learned, 'time_ms' => $timeMs];
     }
-    jsonResponse(['name' => $profile['name'], 'points' => $profile['points'] ?? 0, 'total_time_ms' => $profile['total_time_ms'] ?? 0, 'total_errors' => $profile['total_errors'] ?? 0, 'stats' => $stats]);
+    jsonResponse(['name' => $profile['name'], 'points' => $profile['points'] ?? 0, 'total_time_ms' => $profile['total_time_ms'] ?? 0, 'stats' => $stats]);
 }
 
 jsonResponse(['error' => 'Unknown action'], 400);

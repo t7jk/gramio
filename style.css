@@ -151,6 +151,7 @@ hr { border: none; border-top: 1px solid #000; margin: 1rem 0; }
   border: 1px solid #000;
   white-space: nowrap;
 }
+.lesson-badge.not-started { opacity: 0.5; }
 
 .lesson-actions { display: flex; gap: 0.4rem; }
 

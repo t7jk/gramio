@@ -1,0 +1,12 @@
+---
+description: Deploy EngLearn to WWW — use repo deploy.sh, never hand-roll full rsync over profiles
+alwaysApply: true
+---
+
+# Deploy EngLearn na serwer
+
+Wdrożenie na katalog WWW (`~/englearn` → `/var/www/html/englearn`) robi **skrypt w korzeniu repozytorium: [`deploy.sh`](../../deploy.sh)**. On kopiuje tylko potrzebne pliki aplikacji i danych lekcji **i nie nadpisuje `profiles/`** na serwerze.
+
+- **Uruchamiaj:** `bash ~/englearn/deploy.sh` na maszynie, gdzie istnieją obie ścieżki (zwykle serwer po `git pull`).
+- **Nie zastępuj** tego własnym `cp`/`rsync` na cały katalog docelowy — ryzyko dla `profiles/`. Rozszerzenia listy plików — edytuj **`deploy.sh`**, potem znów ten skrypt.
+- Szczegóły: skill **englearn-server-deploy** (`.cursor/skills/englearn-server-deploy/SKILL.md`).

@@ -1,0 +1,125 @@
+{
+  "title": "Future – possibility and probability II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The talks ___ lead to an agreement – both sides seem willing.",
+      "answers": ["might", "must", "should"],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": "She ___ not attend the conference – she hasn't decided yet.",
+      "answers": ["will", "may", "must"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "It's ___ that he will resign by the end of the month.",
+      "answers": ["possibly", "possible", "possibility"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "They ___ open a new branch next year if sales improve.",
+      "answers": ["must", "might", "will"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "He ___ probably not remember – it was years ago.",
+      "answers": ["will", "might", "must"],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": "There's a strong ___ they will merge the two departments.",
+      "answers": ["probably", "probable", "possibility"],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": "She ___ be selected – she's one of the top candidates.",
+      "answers": ["could", "must", "should"],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "It ___ take up to three weeks to process your application.",
+      "answers": ["might", "must", "will"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "I doubt he ___ change his mind at this stage.",
+      "answers": ["will", "might", "could"],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": "The project is ___ to be finished ahead of schedule.",
+      "answers": ["likely", "probable", "possibly"],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": "We ___ go to Italy this summer – nothing is booked yet.",
+      "answers": ["will", "might", "must"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": "He's ___ to know about the changes – he's very well-informed.",
+      "answers": ["likely", "probably", "possible"],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "question": "She ___ not get the visa in time – the process is slow.",
+      "answers": ["will", "might", "must"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "There ___ be a strike next week if the talks fail.",
+      "answers": ["might", "must", "will"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": "I'm not sure – I ___ stay or I ___ go home early.",
+      "answers": ["might / might", "will / will", "must / must"],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": "The weather ___ improve by the weekend.",
+      "answers": ["should", "must", "will"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "___ is a chance that the event will be cancelled.",
+      "answers": ["Possibly", "Probable", "There"],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": "He ___ call you back – he said he would try.",
+      "answers": ["might", "must", "will"],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": "It's ___ impossible to finish all this by noon.",
+      "answers": ["possible", "nearly", "possibility"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "She ___ decide to quit – she's very unhappy there.",
+      "answers": ["must", "could", "will"],
+      "correct": 1
+    }
+  ]
+}

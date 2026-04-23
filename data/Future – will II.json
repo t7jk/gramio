@@ -1,0 +1,125 @@
+{
+  "title": "Future – will II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The forecast says it ___ be sunny all week.",
+      "answers": ["would", "will", "is"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "I ___ lend you my car if you need it.",
+      "answers": ["would", "will", "am going to"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "No one ___ believe this story.",
+      "answers": ["will", "is", "does"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "She ___ probably not come – she's very busy.",
+      "answers": ["will", "would", "is"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "___ you be available on Monday morning?",
+      "answers": ["Do", "Are", "Will"],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": "Don't eat too much or you ___ feel sick.",
+      "answers": ["will", "would", "are going to"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "I ___ not tell anyone – I promise.",
+      "answers": ["would", "will", "do"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "He ___ retire when he turns 65.",
+      "answers": ["will", "is", "would"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "Wait here – I ___ get someone to help you.",
+      "answers": ["am going to", "will", "would"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "By 2050 the world population ___ reach 10 billion.",
+      "answers": ["will", "is", "would"],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": "___ you marry me?",
+      "answers": ["Do", "Are", "Will"],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": "I think prices ___ rise again next year.",
+      "answers": ["would", "are", "will"],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "I ___ do my best to finish it on time.",
+      "answers": ["would", "am", "will"],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": "If you ask her nicely, she ___ help you.",
+      "answers": ["will", "would", "is going to"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": "She ___ probably move abroad after graduation.",
+      "answers": ["is", "would", "will"],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "I doubt he ___ change his mind.",
+      "answers": ["will", "would", "is"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "Who ___ feed the cat while we're away?",
+      "answers": ["is", "does", "will"],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": "Don't worry – she ___ understand.",
+      "answers": ["would", "will", "is"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "He ___ not be pleased when he finds out.",
+      "answers": ["is", "will", "does"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "I expect they ___ announce the results tomorrow.",
+      "answers": ["would", "will", "are"],
+      "correct": 1
+    }
+  ]
+}

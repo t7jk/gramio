@@ -1,0 +1,125 @@
+{
+  "title": "Future – will I",
+  "questions": [
+    {
+      "id": 1,
+      "question": "I think it ___ rain tomorrow.",
+      "answers": ["will", "is going to", "would"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "She ___ be 30 next year.",
+      "answers": ["is", "will", "would"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "___ you help me with this, please?",
+      "answers": ["Do", "Will", "Are"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "I promise I ___ forget.",
+      "answers": ["won't", "don't", "didn't"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "He ___ probably be late – he always is.",
+      "answers": ["will", "is", "would"],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": "The phone is ringing – I ___ get it!",
+      "answers": ["am going to", "will", "would"],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "___ she be at the meeting tomorrow?",
+      "answers": ["Does", "Will", "Is"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "Don't worry – everything ___ fine.",
+      "answers": ["will be", "is", "would be"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "I ___ call you as soon as I arrive.",
+      "answers": ["am going to", "will", "would"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "They ___ not be home until midnight.",
+      "answers": ["are", "will", "do"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "I've decided – I ___ take the job.",
+      "answers": ["will", "am", "would"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "The match starts at 8. ___ you watch it?",
+      "answers": ["Do", "Will", "Are"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "I ___ open the window – it's hot in here.",
+      "answers": ["will", "am going to", "would"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "She ___ definitely pass – she's very smart.",
+      "answers": ["would", "will", "is"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "___ they come to the party on Saturday?",
+      "answers": ["Do", "Are", "Will"],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "I won't be long – I ___ be back in ten minutes.",
+      "answers": ["would", "will", "am"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "He ___ never learn if you keep helping him.",
+      "answers": ["would", "will", "is"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "I think robots ___ do most jobs in the future.",
+      "answers": ["will", "are", "do"],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": "I ___ have a coffee, please.",
+      "answers": ["would", "will", "am going to"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "She said she ___ help us move.",
+      "answers": ["will", "would", "is"],
+      "correct": 1
+    }
+  ]
+}

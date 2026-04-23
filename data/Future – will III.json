@@ -1,0 +1,126 @@
+{
+  "title": "Future – will III",
+  "questions": [
+    {
+      "id": 1,
+      "question": "I'm sure you ___ do well in the interview.",
+      "answers": ["would", "will", "are going to"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "The company ___ release the new model in spring.",
+      "answers": ["will", "is", "would"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "If you don't hurry, you ___ miss the train.",
+      "answers": ["would", "will", "are"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "He ___ turn 40 next March.",
+      "answers": ["is", "will", "would"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "That bag looks heavy – I ___ carry it for you.",
+      "answers": ["will", "am going to", "would"],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": "She ___ not be at home – try calling her mobile.",
+      "answers": ["would", "will", "does"],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "Scientists believe they ___ find a cure within a decade.",
+      "answers": ["would", "are", "will"],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "___ there be enough seats for everyone?",
+      "answers": ["Is", "Will", "Does"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "I ___ have the fish, please.",
+      "answers": ["am going to", "will", "would"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "He refused and said he ___ not apologise.",
+      "answers": ["will", "would", "is"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "Do you think she ___ accept the offer?",
+      "answers": ["would", "will", "is"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": "I ___ always love you.",
+      "answers": ["would", "am going to", "will"],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "The new law ___ come into effect next January.",
+      "answers": ["is", "will", "would"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "I doubt it ___ make any difference.",
+      "answers": ["will", "would", "is"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": "He ___ be angry when he sees this bill.",
+      "answers": ["is", "would", "will"],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "I bet you ___ enjoy the film – it's brilliant.",
+      "answers": ["would", "will", "are"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "No matter what happens, we ___ support you.",
+      "answers": ["will", "would", "are"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "___ the meeting ___ start on time?",
+      "question": "___ the meeting start on time?",
+      "answers": ["Does", "Is", "Will"],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": "She told him she ___ think about it.",
+      "answers": ["will", "would", "is going to"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "I don't think he ___ come back.",
+      "answers": ["will", "would", "is"],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "The Passive – actions, systems and processes III",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The contract ___ signed by both parties before work began.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "Waste ___ sorted into three categories at this facility.",
+      "answers": ["is", "are", "were"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "The regulations ___ reviewed annually by the committee.",
+      "answers": ["is", "are", "was"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "The witness ___ being protected by the authorities.",
+      "answers": ["is", "are", "were"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "Millions of vaccines ___ distributed across the country.",
+      "answers": ["was", "is", "were"],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": "The error ___ detected during routine maintenance.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "All staff ___ informed of the changes by email.",
+      "answers": ["is", "was", "were"],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "The server ___ backed up every night automatically.",
+      "answers": ["is", "are", "were"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "The prisoners ___ released after the peace agreement.",
+      "answers": ["is", "was", "were"],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "New guidelines ___ issued to all departments.",
+      "answers": ["was", "were", "is"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "The building has ___ demolished to make way for a park.",
+      "answers": ["be", "being", "been"],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": "The results ___ due to be published next week.",
+      "answers": ["is", "are", "were"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "His personal data ___ used without his consent.",
+      "answers": ["was", "is", "were"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "The pipes ___ laid before the road was resurfaced.",
+      "answers": ["are", "were", "will be"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "The new app ___ downloaded over a million times.",
+      "answers": ["has been", "is", "were"],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": "All employees must ___ given safety training.",
+      "answers": ["being", "been", "be"],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "The proposal ___ rejected by the board.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "The products ___ tested for quality before dispatch.",
+      "answers": ["is", "are", "was"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "The decision ___ made without consulting anyone.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "Instructions ___ included in the box.",
+      "answers": ["is", "was", "are"],
+      "correct": 2
+    }
+  ]
+}

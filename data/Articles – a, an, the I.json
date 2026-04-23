@@ -1,0 +1,125 @@
+{
+  "title": "Articles – a, an, the I",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She is ___ doctor.",
+      "answers": ["a", "an", "the"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "He gave me ___ apple.",
+      "answers": ["a", "an", "the"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "I saw ___ film last night. ___ film was amazing.",
+      "answers": ["a / The", "the / A", "an / The"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "Can you close ___ door, please?",
+      "answers": ["a", "an", "the"],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "He is ___ honest man.",
+      "answers": ["a", "an", "the"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "___ sun rises in the east.",
+      "answers": ["A", "An", "The"],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": "I'd like ___ coffee, please.",
+      "answers": ["a", "an", "the"],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": "She lives in ___ United Kingdom.",
+      "answers": ["a", "an", "the"],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": "He plays ___ guitar very well.",
+      "answers": ["a", "an", "the"],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "We went to ___ restaurant yesterday.",
+      "answers": ["a", "an", "the"],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": "Is there ___ university in your town?",
+      "answers": ["a", "an", "the"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "___ Amazon is the longest river in South America.",
+      "answers": ["A", "An", "The"],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "I need ___ umbrella – it's raining.",
+      "answers": ["a", "an", "the"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "She is ___ best student in the class.",
+      "answers": ["a", "an", "the"],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": "He works as ___ engineer.",
+      "answers": ["a", "an", "the"],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": "I go to ___ school by bus.",
+      "answers": ["a", "an", "—"],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "There is ___ cat on the roof.",
+      "answers": ["a", "an", "the"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": "We visited ___ Eiffel Tower last summer.",
+      "answers": ["a", "an", "the"],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": "She has ___ hour to finish the test.",
+      "answers": ["a", "an", "the"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "I love ___ music. It makes me happy.",
+      "answers": ["a", "the", "—"],
+      "correct": 2
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "The Passive – passive verbs, infinitives, have something done II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She had her nails ___ before the wedding.",
+      "answers": ["do", "done", "doing"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "The winner is said ___ already contacted.",
+      "answers": ["being", "to have been", "been"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "I'm having the kitchen ___.",
+      "answers": ["remodel", "remodelling", "remodelled"],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": "He hopes ___ offered the position.",
+      "answers": ["to be", "being", "been"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "They had their passports ___ at the border.",
+      "answers": ["check", "checked", "checking"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "The patient is known ___ allergic to penicillin.",
+      "answers": ["being", "to be", "been"],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "She had her handbag ___ on her way home.",
+      "answers": ["snatch", "snatching", "snatched"],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "The suspect is thought ___ fled the country.",
+      "answers": ["being", "to have", "been"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "We're going to have the garden ___.",
+      "answers": ["landscape", "landscaping", "landscaped"],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "He avoided ___ caught by staying inside.",
+      "answers": ["to be", "being", "been"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "The building is reported ___ structurally unsound.",
+      "answers": ["being", "been", "to be"],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": "She had her bike ___ after the accident.",
+      "answers": ["fix", "fixing", "fixed"],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "He denied ___ involved in the scandal.",
+      "answers": ["to be", "being", "been"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "They had their flat ___ by a professional company.",
+      "answers": ["clean", "cleaning", "cleaned"],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": "The firm is expected ___ acquired next year.",
+      "answers": ["being", "to be", "been"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "She had the forms ___ by her assistant.",
+      "answers": ["fill in", "filling in", "filled in"],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "He admitted ___ followed by someone.",
+      "answers": ["being", "to be", "been"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": "The new CEO is believed ___ an internal candidate.",
+      "answers": ["being", "to be", "been"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "They had the contract ___ by a lawyer.",
+      "answers": ["review", "reviewing", "reviewed"],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "She seemed ___ surprised by the news.",
+      "answers": ["being", "been", "to be"],
+      "correct": 2
+    }
+  ]
+}

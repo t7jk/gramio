@@ -1,0 +1,125 @@
+{
+  "title": "Present Simple II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "My sister ___ yoga every morning.",
+      "answers": ["do", "does", "doing"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "I ___ a lot of books in my free time.",
+      "answers": ["read", "reads", "reading"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "He ___ to work by car.",
+      "answers": ["go", "goes", "going"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "They ___ in a flat in the city centre.",
+      "answers": ["live", "lives", "living"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "She ___ the piano beautifully.",
+      "answers": ["play", "plays", "playing"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "___ he eat meat?",
+      "answers": ["Do", "Does", "Is"],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "Birds ___ south in winter.",
+      "answers": ["fly", "flies", "flying"],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": "He ___ smoke – he quit three years ago.",
+      "answers": ["don't", "doesn't", "isn't"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "My parents often ___ to the cinema.",
+      "answers": ["goes", "go", "going"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "She ___ English at a primary school.",
+      "answers": ["teach", "teaches", "teaching"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "The class ___ at nine and finishes at noon.",
+      "answers": ["starts", "start", "starting"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "___ you know her name?",
+      "answers": ["Does", "Do", "Are"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "He usually ___ lunch at the office.",
+      "answers": ["have", "has", "having"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "They ___ go out on weekdays.",
+      "answers": ["doesn't", "don't", "aren't"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "My dog ___ a lot when he is hungry.",
+      "answers": ["bark", "barks", "barking"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "It ___ a lot in Scotland.",
+      "answers": ["rain", "rains", "raining"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "___ they take the bus to work?",
+      "answers": ["Does", "Do", "Are"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "She never ___ up before 8 a.m.",
+      "answers": ["wake", "wakes", "waking"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "He ___ football every weekend.",
+      "answers": ["play", "plays", "playing"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "I ___ understand this question.",
+      "answers": ["doesn't", "don't", "aren't"],
+      "correct": 1
+    }
+  ]
+}

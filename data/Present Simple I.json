@@ -1,0 +1,125 @@
+{
+  "title": "Present Simple I",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She ___ to school every day.",
+      "answers": ["go", "goes", "going"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "They ___ coffee in the morning.",
+      "answers": ["drink", "drinks", "drinking"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "He ___ TV every evening.",
+      "answers": ["watch", "watchs", "watches"],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": "___ you like pizza?",
+      "answers": ["Do", "Does", "Are"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "My brother ___ in London.",
+      "answers": ["live", "lives", "living"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "She ___ speak French very well.",
+      "answers": ["don't", "doesn't", "isn't"],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "The train ___ at 8 o'clock.",
+      "answers": ["leave", "leaves", "leaving"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "___ he work here?",
+      "answers": ["Do", "Does", "Is"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "We ___ tennis on Saturdays.",
+      "answers": ["plays", "play", "played"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "She always ___ breakfast before school.",
+      "answers": ["eat", "eats", "eating"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "I ___ get up at 7 a.m.",
+      "answers": ["usually", "yet", "already"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "He ___ like vegetables.",
+      "answers": ["don't", "doesn't", "isn't"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "The sun ___ in the east.",
+      "answers": ["rise", "rises", "rising"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "___ they live near here?",
+      "answers": ["Does", "Do", "Are"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "My cat ___ fish.",
+      "answers": ["love", "loves", "loving"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "We ___ go to church on Sundays.",
+      "answers": ["don't", "doesn't", "aren't"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "She ___ her teeth twice a day.",
+      "answers": ["brush", "brushes", "brushing"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "Water ___ at 100 degrees Celsius.",
+      "answers": ["boil", "boils", "boiling"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "___ your parents speak English?",
+      "answers": ["Does", "Do", "Is"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "He never ___ late for work.",
+      "answers": ["is", "are", "be"],
+      "correct": 0
+    }
+  ]
+}

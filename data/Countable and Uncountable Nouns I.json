@@ -1,0 +1,125 @@
+{
+  "title": "Countable and Uncountable Nouns I",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Can I have ___ water, please?",
+      "answers": ["a", "some", "many"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "She bought ___ new coat yesterday.",
+      "answers": ["some", "any", "a"],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": "There isn't ___ milk in the fridge.",
+      "answers": ["a", "many", "any"],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": "I need ___ advice – what should I do?",
+      "answers": ["a", "some", "many"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "How ___ eggs do we need?",
+      "answers": ["much", "many", "any"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "He doesn't have ___ money left.",
+      "answers": ["many", "much", "a"],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "There are ___ apples in the bowl.",
+      "answers": ["much", "some", "a"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "We don't have ___ chairs for everyone.",
+      "answers": ["much", "enough", "a little"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "How ___ sugar do you take in your tea?",
+      "answers": ["many", "much", "few"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "She gave me ___ useful information.",
+      "answers": ["a", "some", "many"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "I only have ___ minutes – let's hurry.",
+      "answers": ["a few", "a little", "much"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "There's ___ bread left – shall I buy more?",
+      "answers": ["a little", "a few", "many"],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "question": "Do you have ___ brothers or sisters?",
+      "answers": ["much", "some", "any"],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": "She has ___ experience in marketing.",
+      "answers": ["a lot of", "many", "a"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": "I'd like ___ piece of cake.",
+      "answers": ["some", "a", "any"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "There are ___ people in the queue.",
+      "answers": ["much", "a lot of", "a little"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "We need ___ new furniture for the office.",
+      "answers": ["a", "some", "many"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "How ___ time do we have left?",
+      "answers": ["many", "much", "few"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "He made ___ mistakes in his essay.",
+      "answers": ["much", "a few", "a little"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "There is ___ traffic on the motorway today.",
+      "answers": ["a lot of", "many", "a"],
+      "correct": 0
+    }
+  ]
+}

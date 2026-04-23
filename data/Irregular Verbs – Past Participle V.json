@@ -1,0 +1,222 @@
+{
+  "title": "Irregular Verbs – Past Participle V",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What has he ___ (mean) by that comment?",
+      "answers": [
+        "mean",
+        "meaning",
+        "meant"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": "She has ___ (become) a very successful lawyer.",
+      "answers": [
+        "become",
+        "became",
+        "becoming"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "The sun has ___ (shine) all week.",
+      "answers": [
+        "shined",
+        "shone",
+        "shining"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "Have you ___ (spell) your name correctly?",
+      "answers": [
+        "spell",
+        "spelling",
+        "spelt"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "She has ___ (weep) all night.",
+      "answers": [
+        "wept",
+        "weeped",
+        "weeping"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": "He has ___ (kneel) before the queen.",
+      "answers": [
+        "kneeled",
+        "knelt",
+        "kneeling"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "I've ___ (spill) coffee all over my shirt!",
+      "answers": [
+        "spill",
+        "spilling",
+        "spilt"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "She has ___ (hang) her coat by the door.",
+      "answers": [
+        "hung",
+        "hanged",
+        "hanging"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "Has she ever ___ (beat) you at chess?",
+      "answers": [
+        "beated",
+        "beaten",
+        "beating"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "He has ___ (swear) to tell the truth.",
+      "answers": [
+        "swore",
+        "swearing",
+        "sworn"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "They have ___ (forbid) entry to the building.",
+      "answers": [
+        "forbidden",
+        "forbade",
+        "forbidding"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "She has never ___ (forgive) him for lying.",
+      "answers": [
+        "forgave",
+        "forgiven",
+        "forgiving"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "Lightning has ___ (strike) the same spot twice.",
+      "answers": [
+        "striked",
+        "striking",
+        "struck"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": "My favourite jumper has ___ (shrink) in the wash.",
+      "answers": [
+        "shrunk",
+        "shrank",
+        "shrinking"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": "They've ___ (bind) the pages together.",
+      "answers": [
+        "binded",
+        "bound",
+        "binding"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "The workers have ___ (dig) a very deep hole.",
+      "answers": [
+        "digged",
+        "digging",
+        "dug"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "He has ___ (grind) the coffee beans already.",
+      "answers": [
+        "ground",
+        "grinded",
+        "grinding"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": "He has ___ (spring) a surprise on everyone.",
+      "answers": [
+        "sprang",
+        "sprung",
+        "springing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "Have they ___ (stick) to the original plan?",
+      "answers": [
+        "sticked",
+        "sticking",
+        "stuck"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "She has ___ (withdraw) all her savings.",
+      "answers": [
+        "withdrawn",
+        "withdrew",
+        "withdrawing"
+      ],
+      "correct": 0
+    }
+  ],
+  "theory": {
+    "explanation": "Irregular Past Participle forms – Part V (advanced)\n\nLess common but important forms:\n  mean   → meant      become → become     shine  → shone\n  spell  → spelt      weep   → wept       kneel  → knelt\n  spill  → spilt      hang   → hung        beat   → beaten\n  swear  → sworn      forbid → forbidden  forgive → forgiven\n  strike → struck     shrink → shrunk     bind   → bound\n  dig    → dug        grind  → ground     spring → sprung\n  stick  → stuck      withdraw → withdrawn\n\nNote: become → became → become (past participle = infinitive)\nNote: beat → beat/beaten (two acceptable pp forms)",
+    "examples": [
+      {
+        "sentence": "She has become a very successful lawyer.",
+        "explanation": "become → became → become. Past participle = infinitive! (not 'became' as pp)"
+      },
+      {
+        "sentence": "They have forbidden entry to the building.",
+        "explanation": "forbid → forbade → forbidden. The -en ending, like hidden, ridden."
+      },
+      {
+        "sentence": "The workers have dug a very deep hole.",
+        "explanation": "dig → dug → dug. Past simple = past participle = dug (not 'digged')."
+      }
+    ]
+  }
+}

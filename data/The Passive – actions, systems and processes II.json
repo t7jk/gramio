@@ -1,0 +1,125 @@
+{
+  "title": "The Passive – actions, systems and processes II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The goods ___ inspected before they leave the warehouse.",
+      "answers": ["is", "are", "were"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "A new law ___ passed by parliament last week.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "The application ___ processed within five working days.",
+      "answers": ["will be", "is being", "was"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "All entries ___ judged by a panel of experts.",
+      "answers": ["is", "was", "will be"],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "The pipes ___ replaced last winter.",
+      "answers": ["are", "were", "will be"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "The system ___ upgraded every two years.",
+      "answers": ["is", "are", "were"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "The suspect ___ questioned for six hours.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "New safety rules ___ currently being tested.",
+      "answers": ["is", "was", "are"],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": "The film ___ directed by a first-time director.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "The chemicals must ___ stored at low temperatures.",
+      "answers": ["being", "been", "be"],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "Several employees ___ laid off last quarter.",
+      "answers": ["are", "were", "will be"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": "Complaints should ___ submitted in writing.",
+      "answers": ["be", "been", "being"],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "question": "The water ___ tested daily for contamination.",
+      "answers": ["is", "was", "were"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "Two new stations ___ opened last year.",
+      "answers": ["are", "were", "will be"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "The crops ___ damaged by the storm.",
+      "answers": ["is", "are", "were"],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "The machine has ___ repaired.",
+      "answers": ["be", "being", "been"],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "All parcels ___ tracked from dispatch to delivery.",
+      "answers": ["is", "are", "were"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "The data ___ encrypted to protect user privacy.",
+      "answers": ["is", "are", "were"],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": "The bridge ___ expected to open next spring.",
+      "answers": ["is", "was", "were"],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": "The invoice ___ sent to the wrong address.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    }
+  ]
+}

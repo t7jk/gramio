@@ -1,0 +1,125 @@
+{
+  "title": "Present Simple III",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She ___ her homework after dinner.",
+      "answers": ["do", "does", "doing"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "He ___ a shower every morning.",
+      "answers": ["take", "takes", "taking"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "They always ___ the truth.",
+      "answers": ["tell", "tells", "telling"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "My mum ___ the best cakes.",
+      "answers": ["make", "makes", "making"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "___ she know how to drive?",
+      "answers": ["Do", "Does", "Is"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "Cats ___ a lot during the day.",
+      "answers": ["sleeps", "sleep", "sleeping"],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "He ___ his bike to work.",
+      "answers": ["ride", "rides", "riding"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "She ___ a lot of time on social media.",
+      "answers": ["spend", "spends", "spending"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "___ they work on Saturdays?",
+      "answers": ["Does", "Do", "Are"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "The museum ___ at 10 a.m. on Sundays.",
+      "answers": ["open", "opens", "opening"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "We ___ holidays in the mountains.",
+      "answers": ["spend", "spends", "spending"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "He ___ understand the instructions.",
+      "answers": ["don't", "doesn't", "isn't"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "She ___ to music while she cooks.",
+      "answers": ["listen", "listens", "listening"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "Light ___ faster than sound.",
+      "answers": ["travel", "travels", "traveling"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "___ your brother like sport?",
+      "answers": ["Do", "Does", "Is"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "We ___ eat fast food – it's unhealthy.",
+      "answers": ["doesn't", "don't", "aren't"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "She ___ her phone on the bus.",
+      "answers": ["check", "checks", "checking"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "He ___ the newspaper every morning.",
+      "answers": ["read", "reads", "reading"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "___ you like classical music?",
+      "answers": ["Does", "Do", "Is"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "The shop ___ at 9 p.m. every day.",
+      "answers": ["close", "closes", "closing"],
+      "correct": 1
+    }
+  ]
+}

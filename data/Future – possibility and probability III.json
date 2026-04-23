@@ -1,0 +1,125 @@
+{
+  "title": "Future – possibility and probability III",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Given the evidence, the suspect ___ be released soon.",
+      "answers": ["could", "must", "will"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "There is ___ of a breakthrough in the negotiations.",
+      "answers": ["probably", "a possibility", "likely"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "The economy ___ recover faster than analysts predicted.",
+      "answers": ["might", "must", "will"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "It is ___ that the two companies will merge.",
+      "answers": ["probably", "likely", "possibility"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "She ___ well become the youngest CEO in the company's history.",
+      "answers": ["might", "could", "should"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "They are ___ to face strong opposition from shareholders.",
+      "answers": ["likely", "probably", "possible"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "The virus ___ mutate, making vaccines less effective.",
+      "answers": ["might", "must", "will"],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": "She's ___ not going to accept those terms.",
+      "answers": ["almost certainly", "possibility", "probable"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "There is a slim ___ they will win the championship.",
+      "answers": ["chance", "possibly", "likely"],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": "The report ___ reveal more than we expect.",
+      "answers": ["might", "must", "will"],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": "It is ___ inevitable that AI will transform the workplace.",
+      "answers": ["almost", "possibly", "likely"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "He ___ not realise how serious the situation is.",
+      "answers": ["must", "may", "will"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "The mission ___ succeed if the conditions are right.",
+      "answers": ["could", "must", "will"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "There's an even ___ that the bill will be rejected.",
+      "answers": ["chance", "possibly", "likely"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": "She is ___ to be appointed as the new director.",
+      "answers": ["probably", "likely", "possibility"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "This decision ___ have far-reaching consequences.",
+      "answers": ["might", "must", "will"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "He ___ be bluffing – we can't be certain.",
+      "answers": ["could", "must", "will"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": "It's ___ unlikely that they'll change the policy now.",
+      "answers": ["highly", "possibility", "probable"],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": "The conference ___ attract over a thousand delegates.",
+      "answers": ["must", "might", "will"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "Whether she wins or not ___ depend on the final votes.",
+      "answers": ["will", "might", "could"],
+      "correct": 0
+    }
+  ]
+}

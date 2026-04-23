@@ -1,0 +1,222 @@
+{
+  "title": "Present Perfect I",
+  "questions": [
+    {
+      "id": 1,
+      "question": "I ___ this movie before. It's amazing!",
+      "answers": [
+        "have seen",
+        "saw",
+        "had seen"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "She hasn't ___ dinner yet.",
+      "answers": [
+        "cook",
+        "cooked",
+        "cooking"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "Have they ever ___ to London?",
+      "answers": [
+        "go",
+        "went",
+        "been"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": "He's just ___ his homework.",
+      "answers": [
+        "finished",
+        "finish",
+        "finishing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "We ___ known each other for ten years.",
+      "answers": [
+        "has",
+        "have",
+        "had"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "Have you ever ___ sushi?",
+      "answers": [
+        "eat",
+        "ate",
+        "eaten"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": "I haven't ___ the report yet.",
+      "answers": [
+        "written",
+        "wrote",
+        "write"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": "She's ___ to Paris three times.",
+      "answers": [
+        "went",
+        "been",
+        "go"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "Has he ___ his keys again?",
+      "answers": [
+        "lose",
+        "losing",
+        "lost"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "They've ___ working here since 2010.",
+      "answers": [
+        "been",
+        "be",
+        "are"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": "How long ___ you been studying English?",
+      "answers": [
+        "has",
+        "have",
+        "had"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": "She hasn't ___ a single lie in her life.",
+      "answers": [
+        "tell",
+        "telling",
+        "told"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "I've already ___ my homework.",
+      "answers": [
+        "done",
+        "did",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "___ he ever visited Australia?",
+      "answers": [
+        "Have",
+        "Has",
+        "Had"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "They haven't finished the report ___.",
+      "answers": [
+        "just",
+        "already",
+        "yet"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "We've just ___ to a new apartment.",
+      "answers": [
+        "moved",
+        "move",
+        "moving"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "How many times ___ you seen that film?",
+      "answers": [
+        "has",
+        "have",
+        "had"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "She ___ worked here for five years.",
+      "answers": [
+        "have",
+        "had",
+        "has"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": "I haven't ___ anyone I know since last week.",
+      "answers": [
+        "seen",
+        "saw",
+        "see"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": "Have you ___ your phone? I can't find it.",
+      "answers": [
+        "lose",
+        "lost",
+        "losing"
+      ],
+      "correct": 1
+    }
+  ],
+  "theory": {
+    "explanation": "Present Perfect tense\n\nForm: have / has + past participle (3rd form of the verb)\n\nWhen we use it:\n  • Life experience (ever, never): \"Have you ever been abroad?\"\n  • Actions just completed (just, already): \"I've just finished.\"\n  • A result visible now: \"She has lost her keys.\" (she still doesn't have them)\n  • Duration up to now (for, since): \"I've lived here for ten years.\"\n\nPatterns:\n  Affirmative: I/You/We/They have + pp    |  He/She/It has + pp\n  Negative:    haven't + pp               |  hasn't + pp\n  Questions:   Have + subject + pp?     |  Has + subject + pp?",
+    "examples": [
+      {
+        "sentence": "I have seen this film before.",
+        "explanation": "Affirmative: I + have + seen (pp of 'see'). Describes past experience."
+      },
+      {
+        "sentence": "She hasn't cooked dinner yet.",
+        "explanation": "Negative: she + hasn't + cooked (pp of 'cook'). Yet = not yet — at the end."
+      },
+      {
+        "sentence": "Have they ever been to London?",
+        "explanation": "Question: Have + they + been (pp of 'go/be'). Ever = at any time — after have/has."
+      }
+    ]
+  }
+}

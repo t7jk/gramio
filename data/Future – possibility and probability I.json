@@ -1,0 +1,125 @@
+{
+  "title": "Future – possibility and probability I",
+  "questions": [
+    {
+      "id": 1,
+      "question": "It ___ rain later – take an umbrella just in case.",
+      "answers": ["will", "might", "must"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "She ___ be at home – I'm not sure.",
+      "answers": ["will", "might", "must"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "He ___ probably get the job – he has great experience.",
+      "answers": ["will", "might", "must"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "They ___ come to the party, but they're not sure yet.",
+      "answers": ["will", "may", "must"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "I ___ not be free on Friday – I'll let you know.",
+      "answers": ["will", "might", "must"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "She'll ___ be late – she's always late.",
+      "answers": ["definitely", "might", "could"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "He ___ move abroad – he's been talking about it.",
+      "answers": ["must", "could", "will"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "It ___ possibly take longer than expected.",
+      "answers": ["will", "could", "must"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "She ___ be the new manager – nothing is confirmed.",
+      "answers": ["will", "might", "must"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "I'll ___ finish it by Friday.",
+      "answers": ["probably", "might", "could"],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": "There ___ be delays due to bad weather.",
+      "answers": ["will", "might", "must"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": "He ___ not agree, but it's worth asking.",
+      "answers": ["must", "may", "will"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "They ___ announce the winner tomorrow – it's very likely.",
+      "answers": ["might", "will probably", "must"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "She ___ take the train or the bus – I don't know which.",
+      "answers": ["will", "might", "must"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "It's ___ that prices will rise next year.",
+      "answers": ["probable", "probably", "probability"],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": "He ___ be at the gym – he goes every Thursday.",
+      "answers": ["might", "could", "is probably"],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "We ___ need more time – this is very complex.",
+      "answers": ["must", "might", "will"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "There's a chance it ___ snow tonight.",
+      "answers": ["will", "might", "must"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "She's ___ to get the promotion – she's the best candidate.",
+      "answers": ["likely", "probable", "possibility"],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": "I ___ call you later if I have time.",
+      "answers": ["must", "will", "might"],
+      "correct": 2
+    }
+  ]
+}

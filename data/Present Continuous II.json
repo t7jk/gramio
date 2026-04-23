@@ -1,0 +1,125 @@
+{
+  "title": "Present Continuous II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "My brother ___ for his exam this week.",
+      "answers": ["study", "studies", "is studying"],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": "They ___ a new house right now.",
+      "answers": ["are building", "build", "builds"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "___ she wearing a red jacket today?",
+      "answers": ["Does", "Do", "Is"],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": "The children ___ in the park at the moment.",
+      "answers": ["play", "plays", "are playing"],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "I ___ a coffee – do you want one?",
+      "answers": ["make", "am making", "makes"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "He ___ – don't disturb him.",
+      "answers": ["is sleeping", "sleep", "sleeps"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "Why ___ you laughing?",
+      "answers": ["do", "are", "is"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "She ___ her aunt this weekend.",
+      "answers": ["visit", "visits", "is visiting"],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": "We ___ to Spain next month.",
+      "answers": ["are flying", "fly", "flies"],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": "He ___ right now – call him later.",
+      "answers": ["drives", "drive", "is driving"],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "___ your parents watching TV?",
+      "answers": ["Do", "Is", "Are"],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": "She ___ a new language this year.",
+      "answers": ["learn", "learns", "is learning"],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "I ___ feeling well today.",
+      "answers": ["am not", "don't", "doesn't"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "The dog ___ at something outside.",
+      "answers": ["bark", "barks", "is barking"],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": "What ___ she looking at?",
+      "answers": ["does", "do", "is"],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "They ___ the kitchen right now.",
+      "answers": ["are painting", "paint", "paints"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "He ___ to the gym more often these days.",
+      "answers": ["goes", "go", "is going"],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": "I ___ to move to a bigger flat.",
+      "answers": ["am planning", "plan", "plans"],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": "___ it raining outside?",
+      "answers": ["Does", "Do", "Is"],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "She ___ on a very important project this month.",
+      "answers": ["work", "works", "is working"],
+      "correct": 2
+    }
+  ]
+}

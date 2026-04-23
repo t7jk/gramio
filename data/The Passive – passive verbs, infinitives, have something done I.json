@@ -1,0 +1,125 @@
+{
+  "title": "The Passive – passive verbs, infinitives, have something done I",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She had her hair ___ at a new salon.",
+      "answers": ["cut", "cutting", "to cut"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "He needs ___ helped with his application.",
+      "answers": ["to be", "being", "been"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "I'm having the car ___.",
+      "answers": ["service", "serviced", "to service"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "She wants the report ___ by Friday.",
+      "answers": ["finish", "finished", "to finish"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "He had his wallet ___ on the bus.",
+      "answers": ["steal", "stealing", "stolen"],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": "The documents need ___ signed before tomorrow.",
+      "answers": ["to be", "being", "been"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "They are going to have the roof ___.",
+      "answers": ["repair", "repairing", "repaired"],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "I want ___ informed about any changes.",
+      "answers": ["to be", "being", "been"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "She had her photo ___ by a professional photographer.",
+      "answers": ["take", "taking", "taken"],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "The issue is expected ___ resolved next week.",
+      "answers": ["being", "been", "to be"],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "They had their house ___ after the flood.",
+      "answers": ["renovate", "renovating", "renovated"],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": "He refused ___ questioned by the media.",
+      "answers": ["to be", "being", "been"],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "question": "I'm going to have my eyes ___ next week.",
+      "answers": ["test", "testing", "tested"],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": "She appears ___ chosen for the role.",
+      "answers": ["being", "to have been", "been"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "They had all their luggage ___ at the airport.",
+      "answers": ["search", "searching", "searched"],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "The law is believed ___ changed soon.",
+      "answers": ["being", "to be", "been"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "She had her car ___ while she was at work.",
+      "answers": ["tow", "towed", "towing"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "He seems ___ forgotten everything we told him.",
+      "answers": ["to have been", "being", "been"],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": "I need to have this dress ___.",
+      "answers": ["alter", "altering", "altered"],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "The CEO is reported ___ resigned.",
+      "answers": ["to have", "having", "been"],
+      "correct": 0
+    }
+  ]
+}

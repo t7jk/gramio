@@ -1,0 +1,125 @@
+{
+  "title": "Past Continuous II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "While she ___ the dishes, he was drying them.",
+      "answers": ["washed", "was washing", "were washing"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "At midnight they ___ still dancing.",
+      "answers": ["did", "was", "were"],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": "He ___ his bag when his phone rang.",
+      "answers": ["packed", "was packing", "were packing"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "___ it snowing when you woke up?",
+      "answers": ["Did", "Was", "Were"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "I saw him while he ___ down the street.",
+      "answers": ["walked", "was walking", "were walking"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "They ___ not listening to the teacher.",
+      "answers": ["did", "was", "were"],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": "She was cooking while the kids ___.",
+      "answers": ["slept", "was sleeping", "were sleeping"],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "What ___ he doing when you saw him?",
+      "answers": ["did", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "We ___ still working at 9 p.m.",
+      "answers": ["did", "was", "were"],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "She ___ her hair when I knocked.",
+      "answers": ["dried", "was drying", "were drying"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "He fell asleep while he ___ TV.",
+      "answers": ["watched", "was watching", "were watching"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": "___ the students taking a test when you arrived?",
+      "answers": ["Did", "Was", "Were"],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "I ___ to say something but she left.",
+      "answers": ["was trying", "tried", "were trying"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "The sun ___ and the birds were singing.",
+      "answers": ["shone", "was shining", "were shining"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "They ___ at the same company at that time.",
+      "answers": ["worked", "was working", "were working"],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "She ___ not wearing a coat despite the cold.",
+      "answers": ["did", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "While I ___ the dinner, my son set the table.",
+      "answers": ["cooked", "was cooking", "were cooking"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "He ___ to the radio when the news came on.",
+      "answers": ["listened", "was listening", "were listening"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "___ you working from home last year?",
+      "answers": ["Did", "Was", "Were"],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "The baby ___ when the guests arrived.",
+      "answers": ["cried", "was crying", "were crying"],
+      "correct": 1
+    }
+  ]
+}

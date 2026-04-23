@@ -1,0 +1,222 @@
+{
+  "title": "Irregular Verbs – Past Participle I",
+  "questions": [
+    {
+      "id": 1,
+      "question": "I've never ___ (be) to Japan before.",
+      "answers": [
+        "was",
+        "been",
+        "be"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "Has she ___ (have) breakfast yet?",
+      "answers": [
+        "have",
+        "has",
+        "had"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": "Have you ___ (do) your homework?",
+      "answers": [
+        "done",
+        "did",
+        "doing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "He's ___ (go) to the shops.",
+      "answers": [
+        "went",
+        "going",
+        "gone"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "She has ___ (say) something very interesting.",
+      "answers": [
+        "said",
+        "say",
+        "saying"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": "They've ___ (get) a new car.",
+      "answers": [
+        "getted",
+        "got",
+        "getting"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "I've already ___ (make) dinner.",
+      "answers": [
+        "maked",
+        "making",
+        "made"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "Has he ___ (know) her for a long time?",
+      "answers": [
+        "known",
+        "know",
+        "knowing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "I haven't ___ (think) about it yet.",
+      "answers": [
+        "thinking",
+        "thought",
+        "think"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "She's ___ (take) the dog for a walk.",
+      "answers": [
+        "took",
+        "taking",
+        "taken"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "Have you ever ___ (see) a shooting star?",
+      "answers": [
+        "seen",
+        "saw",
+        "seeing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "Has anyone ___ (come) to fix the boiler?",
+      "answers": [
+        "coming",
+        "came",
+        "come"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "She has ___ (give) me some great advice.",
+      "answers": [
+        "gave",
+        "give",
+        "given"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": "Have you ___ (find) your keys yet?",
+      "answers": [
+        "find",
+        "found",
+        "finding"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "He hasn't ___ (tell) me the truth.",
+      "answers": [
+        "told",
+        "tell",
+        "telling"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": "She's already ___ (leave) the office.",
+      "answers": [
+        "leaving",
+        "leave",
+        "left"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "Have you ever ___ (feel) completely lost?",
+      "answers": [
+        "feel",
+        "felt",
+        "feeling"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "Has he ___ (bring) the documents?",
+      "answers": [
+        "brought",
+        "bring",
+        "bringing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": "The situation has ___ (begin) to improve.",
+      "answers": [
+        "began",
+        "beginning",
+        "begun"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "She's ___ (keep) a diary for years.",
+      "answers": [
+        "keep",
+        "kept",
+        "keeping"
+      ],
+      "correct": 1
+    }
+  ],
+  "theory": {
+    "explanation": "Irregular Past Participle forms – Part I (most common)\n\nWe use Past Participle (3rd form) with have/has/had in Perfect tenses.\nIrregular verbs do NOT form the Past Participle by adding -ed!\n\nKey verbs:\n  be   → been       have  → had        do    → done\n  go   → gone       say   → said        get   → got\n  make → made       know  → known       think → thought\n  take → taken      see   → seen        come  → come\n  give → given      find  → found       tell  → told\n  leave → left      feel  → felt        bring → brought\n  begin → begun     keep  → kept",
+    "examples": [
+      {
+        "sentence": "I've never been to Japan before.",
+        "explanation": "be → been (not 'be-d' or 'was'). Been is used with have/has/had."
+      },
+      {
+        "sentence": "She has done her homework.",
+        "explanation": "do → done (not 'did' or 'do-d'). Done = 3rd form, used with has."
+      },
+      {
+        "sentence": "Have you found your keys yet?",
+        "explanation": "find → found (not 'finded'). Found = past simple AND past participle."
+      }
+    ]
+  }
+}

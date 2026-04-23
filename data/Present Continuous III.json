@@ -1,0 +1,125 @@
+{
+  "title": "Present Continuous III",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Listen! Someone ___ at the door.",
+      "answers": ["knock", "knocks", "is knocking"],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": "We ___ a new employee this week.",
+      "answers": ["are interviewing", "interview", "interviews"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "She ___ better since she started the medicine.",
+      "answers": ["feels", "feel", "is feeling"],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": "___ he taking the train tomorrow?",
+      "answers": ["Does", "Do", "Is"],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "The prices ___ all the time.",
+      "answers": ["rise", "rises", "are rising"],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": "I ___ – can we talk later?",
+      "answers": ["am eating", "eat", "eats"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "Why ___ they whispering?",
+      "answers": ["do", "does", "are"],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "He ___ his old car and buying a new one.",
+      "answers": ["is selling", "sell", "sells"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "The company ___ a lot of new people this year.",
+      "answers": ["hire", "hires", "is hiring"],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "I ___ what you mean.",
+      "answers": ["am not understanding", "don't understand", "not understand"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "She ___ her best to finish on time.",
+      "answers": ["is doing", "do", "does"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "___ you coming to the meeting at 3?",
+      "answers": ["Do", "Are", "Is"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "He ___ much these days – he's very busy.",
+      "answers": ["isn't sleeping", "doesn't sleep", "not sleeps"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "They ___ a new branch in Warsaw.",
+      "answers": ["open", "opens", "are opening"],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": "Look at that man – he ___ to fall!",
+      "answers": ["is going", "goes", "go"],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": "She ___ her hair shorter these days.",
+      "answers": ["wear", "wears", "is wearing"],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "What language ___ they speaking?",
+      "answers": ["do", "does", "are"],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": "I ___ for a new job at the moment.",
+      "answers": ["look", "looks", "am looking"],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": "He ___ to lose weight – he goes to the gym every day.",
+      "answers": ["tries", "try", "is trying"],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "___ the kids behaving themselves?",
+      "answers": ["Do", "Does", "Are"],
+      "correct": 2
+    }
+  ]
+}

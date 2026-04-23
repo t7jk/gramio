@@ -1,0 +1,222 @@
+{
+  "title": "Present Perfect – for and since I",
+  "questions": [
+    {
+      "id": 1,
+      "question": "I have lived here ___ ten years.",
+      "answers": [
+        "for",
+        "since",
+        "ago"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "She has worked there ___ January.",
+      "answers": [
+        "since",
+        "for",
+        "from"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "They've been married ___ over thirty years.",
+      "answers": [
+        "for",
+        "since",
+        "during"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "He hasn't spoken to her ___ the argument.",
+      "answers": [
+        "since",
+        "for",
+        "in"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "We've been waiting ___ two hours.",
+      "answers": [
+        "for",
+        "since",
+        "ago"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": "I haven't eaten ___ this morning.",
+      "answers": [
+        "since",
+        "for",
+        "during"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "She's had that job ___ three months.",
+      "answers": [
+        "for",
+        "since",
+        "ago"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": "He has played football ___ he was six.",
+      "answers": [
+        "since",
+        "for",
+        "from"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "I've known her ___ ages.",
+      "answers": [
+        "for",
+        "since",
+        "in"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": "They haven't called ___ last week.",
+      "answers": [
+        "since",
+        "for",
+        "ago"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": "She's been learning French ___ five years.",
+      "answers": [
+        "for",
+        "since",
+        "during"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "He hasn't slept well ___ his operation.",
+      "answers": [
+        "since",
+        "for",
+        "after"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "question": "We haven't seen her ___ a long time.",
+      "answers": [
+        "for",
+        "since",
+        "ago"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "I've been a vegetarian ___ 2015.",
+      "answers": [
+        "for",
+        "since",
+        "in"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "He's lived in London ___ six months.",
+      "answers": [
+        "since",
+        "for",
+        "ago"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "She hasn't driven a car ___ her accident.",
+      "answers": [
+        "for",
+        "since",
+        "during"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "They've owned the house ___ decades.",
+      "answers": [
+        "ago",
+        "for",
+        "since"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "I've been awake ___ four in the morning.",
+      "answers": [
+        "for",
+        "since",
+        "from"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "We've been on the road ___ eight hours.",
+      "answers": [
+        "since",
+        "for",
+        "during"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "She has worked here ___ she finished university.",
+      "answers": [
+        "for",
+        "since",
+        "after"
+      ],
+      "correct": 1
+    }
+  ],
+  "theory": {
+    "explanation": "FOR and SINCE in Present Perfect\n\nWe use both with Present Perfect to describe how long something has lasted.\n\nFOR + length of time (how long?):\n  for two hours, for ten years, for a long time, for ages\n\nSINCE + a point in time (since when?):\n  since Monday, since 2010, since I was a child, since breakfast\n\nTip: ask yourself:\n  \"How long?\" → FOR\n  \"Since when?\" → SINCE",
+    "examples": [
+      {
+        "sentence": "I have lived here for ten years.",
+        "explanation": "FOR + period (ten years). Answers the question: how long?"
+      },
+      {
+        "sentence": "She has worked there since January.",
+        "explanation": "SINCE + point in time (January). Answers the question: since when?"
+      },
+      {
+        "sentence": "He hasn't spoken to her since the argument.",
+        "explanation": "SINCE + event (argument). The event is the starting point from which something continues."
+      }
+    ]
+  }
+}

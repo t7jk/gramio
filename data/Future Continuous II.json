@@ -1,0 +1,126 @@
+{
+  "title": "Future Continuous II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "By 6 a.m. the sun ___ already.",
+      "answers": ["will rise", "will be rising", "rises"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "She ___ her driving test this time tomorrow.",
+      "answers": ["takes", "will take", "will be taking"],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": "___ he be working from home next week?",
+      "answers": ["Does", "Will", "Is"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "I ___ all evening, so I can't come out.",
+      "answers": ["will study", "will be studying", "am studying"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "They ___ a meeting when I arrive, so I'll wait.",
+      "answers": ["have", "will have", "will be having"],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": "At 3 p.m. she ___ her yoga class.",
+      "answers": ["does", "will do", "will be doing"],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "___ we be flying over France at that point?",
+      "question": "___ we be flying over France at that point?",
+      "answers": ["Do", "Will", "Are"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "He ___ on his novel all summer.",
+      "answers": ["works", "will work", "will be working"],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": "Don't worry – they ___ yet when we get there.",
+      "answers": ["won't be eating", "don't eat", "aren't eating"],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": "I'll call you when they ___ the results.",
+      "answers": ["announce", "will announce", "will be announcing"],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "This time next month I ___ on a tropical island.",
+      "answers": ["relax", "will relax", "will be relaxing"],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": "___ you be using the printer later?",
+      "answers": ["Do", "Will", "Are"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "She ___ the contract, so ask her later.",
+      "answers": ["will sign", "will be signing", "signs"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "We ___ the news at 9 – join us!",
+      "answers": ["watch", "will watch", "will be watching"],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": "He ___ from Paris by tomorrow afternoon.",
+      "answers": ["will be returning", "will have returned", "returns"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "At this time next year she ___ her master's degree.",
+      "answers": ["finishes", "will finish", "will be finishing"],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "___ they be staying for the whole week?",
+      "answers": ["Do", "Will", "Are"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "I ___ somewhere else if you need this desk.",
+      "answers": ["sit", "will sit", "will be sitting"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "She ___ her clients all day and won't be free.",
+      "answers": ["sees", "will see", "will be seeing"],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "Don't phone at 8 – he ___ his speech.",
+      "answers": ["rehearses", "will rehearse", "will be rehearsing"],
+      "correct": 2
+    }
+  ]
+}

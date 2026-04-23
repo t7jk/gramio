@@ -1,0 +1,125 @@
+{
+  "title": "Countable and Uncountable Nouns II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Could you pass me ___ salt?",
+      "answers": ["a", "some", "many"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "I'd like ___ glass of orange juice.",
+      "answers": ["some", "a", "any"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "There are ___ books on the shelf.",
+      "answers": ["much", "a lot of", "a little"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "We don't have ___ rice left.",
+      "answers": ["many", "much", "a few"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "She has very ___ friends in the city.",
+      "answers": ["little", "few", "much"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "He gave the dog ___ meat.",
+      "answers": ["some", "a", "many"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "Is there ___ petrol in the car?",
+      "answers": ["many", "any", "a"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "I only have ___ money – not enough for a taxi.",
+      "answers": ["a few", "a little", "many"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "How ___ cups of coffee have you had today?",
+      "answers": ["much", "many", "any"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "We need to buy ___ new equipment.",
+      "answers": ["a", "some", "many"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "There was very ___ food left after the party.",
+      "answers": ["few", "little", "many"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": "He doesn't have ___ patience.",
+      "answers": ["many", "much", "a"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "Would you like ___ more soup?",
+      "answers": ["a", "some", "many"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "There are ___ good restaurants near here.",
+      "answers": ["much", "a few", "a little"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "I don't have ___ luggage – just a backpack.",
+      "answers": ["many", "much", "a"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "She bought ___ loaf of bread.",
+      "answers": ["some", "a", "any"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "Do you have ___ scissors I could borrow?",
+      "answers": ["a", "some", "much"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "We've made ___ progress since last week.",
+      "answers": ["many", "a", "a lot of"],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": "There's ___ sand on the floor – take your shoes off!",
+      "answers": ["so much", "so many", "a few"],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": "How ___ homework did the teacher give you?",
+      "answers": ["many", "much", "few"],
+      "correct": 1
+    }
+  ]
+}

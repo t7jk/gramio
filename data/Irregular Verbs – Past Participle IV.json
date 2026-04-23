@@ -1,0 +1,222 @@
+{
+  "title": "Irregular Verbs – Past Participle IV",
+  "questions": [
+    {
+      "id": 1,
+      "question": "We've ___ (deal) with this problem before.",
+      "answers": [
+        "dealt",
+        "dealed",
+        "dealing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "Have you ___ (sweep) the floor yet?",
+      "answers": [
+        "sweeped",
+        "swept",
+        "sweeping"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "Fear has ___ (creep) into everyone's mind.",
+      "answers": [
+        "creeped",
+        "creeping",
+        "crept"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": "He has ___ (grow) so much since last year!",
+      "answers": [
+        "grown",
+        "grew",
+        "growing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "She's ___ (draw) a beautiful portrait.",
+      "answers": [
+        "drew",
+        "drawn",
+        "drawing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "Temperatures have ___ (rise) significantly.",
+      "answers": [
+        "rose",
+        "rising",
+        "risen"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": "Has anyone ___ (show) you how to use it?",
+      "answers": [
+        "shown",
+        "show",
+        "showing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": "Has the earthquake ___ (shake) the building?",
+      "answers": [
+        "shook",
+        "shaken",
+        "shaking"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "She has ___ (stand) by her decision throughout.",
+      "answers": [
+        "stand",
+        "standing",
+        "stood"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "Have you ever ___ (meet) a celebrity?",
+      "answers": [
+        "met",
+        "meeting",
+        "meet"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": "He has ___ (sit) in the same chair for hours.",
+      "answers": [
+        "sitting",
+        "sat",
+        "sited"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": "Where has she ___ (put) my glasses?",
+      "answers": [
+        "putted",
+        "putting",
+        "put"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "I've ___ (cut) my finger on the knife.",
+      "answers": [
+        "cut",
+        "cutted",
+        "cutting"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "Has it ___ (hit) you that she's not coming back?",
+      "answers": [
+        "hitted",
+        "hit",
+        "hitting"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "Has he ___ (let) you know his decision?",
+      "answers": [
+        "letted",
+        "letting",
+        "let"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "She has ___ (set) a new world record!",
+      "answers": [
+        "set",
+        "setted",
+        "setting"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "The news has ___ (spread) very quickly.",
+      "answers": [
+        "spreaded",
+        "spread",
+        "spreading"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "Has anyone ever ___ (hurt) your feelings?",
+      "answers": [
+        "hurted",
+        "hurting",
+        "hurt"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": "She has ___ (lead) the team for three years.",
+      "answers": [
+        "led",
+        "leaded",
+        "leading"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": "Have you ___ (read) this book yet?",
+      "answers": [
+        "readed",
+        "read",
+        "reading"
+      ],
+      "correct": 1
+    }
+  ],
+  "theory": {
+    "explanation": "Irregular Past Participle forms – Part IV\n\nImportant group: unchanged verbs (all three forms the same):\n  cut   → cut   → cut      put  → put  → put\n  let   → let   → let      set  → set  → set\n  hit   → hit   → hit      hurt → hurt → hurt\n  spread → spread → spread  read → read → read*\n  (*read is pronounced /red/ in past simple and past participle)\n\nAlso in this set:\n  deal  → dealt    sweep → swept    creep → crept\n  grow  → grown    draw  → drawn    rise  → risen\n  show  → shown    shake → shaken   stand → stood\n  meet  → met      sit   → sat      lead  → led",
+    "examples": [
+      {
+        "sentence": "She has set a new world record!",
+        "explanation": "set → set → set. All three forms identical — don't add -ed!"
+      },
+      {
+        "sentence": "Have you ever met a celebrity?",
+        "explanation": "meet → met → met. Past simple = past participle = met (not 'meeted')."
+      },
+      {
+        "sentence": "Temperatures have risen significantly.",
+        "explanation": "rise → rose → risen (three different forms). Don't confuse with raised (= to lift something)."
+      }
+    ]
+  }
+}

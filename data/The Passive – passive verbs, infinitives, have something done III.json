@@ -1,0 +1,125 @@
+{
+  "title": "The Passive – passive verbs, infinitives, have something done III",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She had her medical records ___ to the new doctor.",
+      "answers": ["transfer", "transferring", "transferred"],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": "The accused is alleged ___ bribed several officials.",
+      "answers": ["to have", "being", "been"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "He managed ___ released on bail.",
+      "answers": ["to be", "being", "been"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "They had their business plan ___ by investors.",
+      "answers": ["scrutinise", "scrutinising", "scrutinised"],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "The policy is understood ___ already approved.",
+      "answers": ["being", "to have been", "been"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "She had her manuscript ___ before submission.",
+      "answers": ["proofread", "proofreading", "to proofread"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "He insisted on ___ told the full story.",
+      "answers": ["to be", "being", "been"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "The merger is rumoured ___ worth over a billion pounds.",
+      "answers": ["to be", "being", "been"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "They had their application ___ despite meeting all criteria.",
+      "answers": ["reject", "rejecting", "rejected"],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "She appeared ___ shaken by the ordeal.",
+      "answers": ["being", "to have been", "been"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "The samples need ___ analysed within 24 hours.",
+      "answers": ["to be", "being", "been"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "He had his entire collection ___ in the fire.",
+      "answers": ["destroy", "destroying", "destroyed"],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "The director is reported ___ the project indefinitely.",
+      "answers": ["to have suspended", "being suspended", "been suspended"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "She doesn't want ___ disturbed during the meeting.",
+      "answers": ["to be", "being", "been"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": "They had the entire network ___ after the cyberattack.",
+      "answers": ["overhaul", "overhauling", "overhauled"],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "He turned out ___ the wrong person for the job.",
+      "answers": ["to be", "being", "been"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "The senator is alleged ___ accepted illegal donations.",
+      "answers": ["being", "to have", "been"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "She had her identity ___ online.",
+      "answers": ["steal", "stealing", "stolen"],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": "The evidence is believed ___ tampered with.",
+      "answers": ["being", "been", "to have been"],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "He had all his teeth ___ after the accident.",
+      "answers": ["replace", "replacing", "replaced"],
+      "correct": 2
+    }
+  ]
+}

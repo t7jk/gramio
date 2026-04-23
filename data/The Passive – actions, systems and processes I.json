@@ -1,0 +1,125 @@
+{
+  "title": "The Passive – actions, systems and processes I",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The letter ___ sent yesterday.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "English ___ spoken in many countries.",
+      "answers": ["is", "was", "are"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "The windows ___ cleaned every week.",
+      "answers": ["is", "was", "are"],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "question": "The report ___ being written right now.",
+      "answers": ["is", "was", "were"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "The cake ___ made by my grandmother.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "Cars ___ produced in this factory.",
+      "answers": ["is", "are", "was"],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "The thief ___ caught by the police.",
+      "answers": ["is", "are", "was"],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "This bridge ___ built in 1890.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "The results ___ announced tomorrow.",
+      "answers": ["will be", "are", "were"],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": "These shoes ___ made in Italy.",
+      "answers": ["is", "was", "were"],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "The package ___ delivered this morning.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": "A new hospital ___ being built in the city centre.",
+      "answers": ["is", "was", "were"],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "question": "The data ___ processed automatically.",
+      "answers": ["is", "are", "be"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "He ___ promoted last month.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "Thousands of cars ___ stolen every year.",
+      "answers": ["is", "was", "are"],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "The form must ___ filled in carefully.",
+      "answers": ["be", "is", "was"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "The meeting has ___ postponed.",
+      "answers": ["been", "be", "being"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": "Oil ___ found off the coast last year.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "The new policy ___ introduced next month.",
+      "answers": ["is being", "will be", "was"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "The fire ___ put out within an hour.",
+      "answers": ["is", "was", "were"],
+      "correct": 1
+    }
+  ]
+}

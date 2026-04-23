@@ -1,0 +1,125 @@
+{
+  "title": "Present Continuous I",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She ___ a book right now.",
+      "answers": ["read", "reads", "is reading"],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": "They ___ football in the garden.",
+      "answers": ["are playing", "play", "plays"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "I ___ to music at the moment.",
+      "answers": ["listen", "am listening", "is listening"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "He ___ a shower right now.",
+      "answers": ["has", "is having", "are having"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "___ you listening to me?",
+      "answers": ["Do", "Are", "Is"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "We ___ dinner at the moment.",
+      "answers": ["are cooking", "cook", "cooks"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "She ___ on the phone right now.",
+      "answers": ["talk", "talks", "is talking"],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "The baby ___. Please be quiet.",
+      "answers": ["sleep", "sleeps", "is sleeping"],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": "___ he working today?",
+      "answers": ["Does", "Do", "Is"],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "I ___ for my keys. I can't find them.",
+      "answers": ["am looking", "look", "looks"],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": "They ___ to the cinema tonight.",
+      "answers": ["go", "are going", "goes"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": "He ___ TV – he's reading.",
+      "answers": ["isn't watching", "doesn't watch", "don't watch"],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "question": "Look! It ___!",
+      "answers": ["snow", "snows", "is snowing"],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": "What ___ you doing?",
+      "answers": ["do", "are", "is"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "She ___ her room at the moment.",
+      "answers": ["cleans", "clean", "is cleaning"],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "We ___ waiting – let's go inside.",
+      "answers": ["are", "do", "is"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "He ___ his homework right now.",
+      "answers": ["do", "does", "is doing"],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": "___ they coming to the party?",
+      "answers": ["Do", "Are", "Is"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "I ___ you – speak louder!",
+      "answers": ["am not hearing", "can't hear", "not hear"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "She ___ a new dress for the wedding.",
+      "answers": ["is buying", "buy", "buys"],
+      "correct": 0
+    }
+  ]
+}

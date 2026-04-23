@@ -1,0 +1,125 @@
+{
+  "title": "Past Continuous I",
+  "questions": [
+    {
+      "id": 1,
+      "question": "I ___ TV when she called.",
+      "answers": ["watched", "was watching", "were watching"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "They ___ football at 5 p.m. yesterday.",
+      "answers": ["played", "was playing", "were playing"],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": "She ___ when the alarm went off.",
+      "answers": ["slept", "was sleeping", "were sleeping"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "___ you listening when I explained it?",
+      "answers": ["Did", "Was", "Were"],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "He ___ a shower when I arrived.",
+      "answers": ["had", "was having", "were having"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "We ___ dinner at 7 o'clock last night.",
+      "answers": ["ate", "was eating", "were eating"],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": "It ___ heavily when we left the house.",
+      "answers": ["rained", "was raining", "were raining"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "___ she working here in 2020?",
+      "answers": ["Did", "Was", "Were"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "I dropped my phone while I ___ down the stairs.",
+      "answers": ["walked", "was walking", "were walking"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "They ___ when the teacher came in.",
+      "answers": ["talked", "was talking", "were talking"],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "He ___ to music, so he didn't hear me.",
+      "answers": ["listened", "was listening", "were listening"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": "What ___ you doing at 10 last night?",
+      "answers": ["did", "was", "were"],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "The children ___ in the garden all afternoon.",
+      "answers": ["played", "was playing", "were playing"],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": "She ___ a book when the lights went out.",
+      "answers": ["read", "was reading", "were reading"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "I ___ waiting for you – where were you?",
+      "answers": ["did", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "He ___ while he was cooking.",
+      "answers": ["sang", "was singing", "were singing"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "___ they sleeping when you got home?",
+      "answers": ["Did", "Was", "Were"],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": "I hurt my knee while I ___ tennis.",
+      "answers": ["played", "was playing", "were playing"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "She ___ not feeling well yesterday morning.",
+      "answers": ["did", "was", "were"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "We ___ a great time at the party when it started to rain.",
+      "answers": ["had", "was having", "were having"],
+      "correct": 2
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Articles – a, an, the II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "I have ___ idea!",
+      "answers": ["a", "an", "the"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "He is ___ only person who knows the truth.",
+      "answers": ["a", "an", "the"],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": "She bought ___ new car last week.",
+      "answers": ["a", "an", "the"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "___ Pacific Ocean is the largest ocean in the world.",
+      "answers": ["A", "An", "The"],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "He goes to ___ work by train.",
+      "answers": ["a", "the", "—"],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": "They live on ___ second floor.",
+      "answers": ["a", "an", "the"],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": "She found ___ old letter in the attic.",
+      "answers": ["a", "an", "the"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "Can I ask you ___ question?",
+      "answers": ["a", "an", "the"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "He learned to play ___ piano as a child.",
+      "answers": ["a", "an", "the"],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "I met ___ interesting woman at the party.",
+      "answers": ["a", "an", "the"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "We go to ___ church every Sunday.",
+      "answers": ["the", "a", "—"],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": "Is this ___ answer you were looking for?",
+      "answers": ["a", "an", "the"],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "question": "He is ___ European citizen.",
+      "answers": ["a", "an", "the"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "She has ___ cat and ___ dog.",
+      "answers": ["a / a", "the / the", "an / a"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": "They are ___ best team in the league.",
+      "answers": ["a", "an", "the"],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "question": "I'd like to be ___ astronaut one day.",
+      "answers": ["a", "an", "the"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "He went to ___ hospital after the accident.",
+      "answers": ["the", "a", "—"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": "___ Earth travels around the sun.",
+      "answers": ["A", "An", "The"],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": "She is ___ tallest girl in her class.",
+      "answers": ["a", "an", "the"],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "We had ___ great time at the concert.",
+      "answers": ["a", "an", "the"],
+      "correct": 0
+    }
+  ]
+}

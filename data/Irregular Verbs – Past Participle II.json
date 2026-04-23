@@ -1,0 +1,222 @@
+{
+  "title": "Irregular Verbs – Past Participle II",
+  "questions": [
+    {
+      "id": 1,
+      "question": "I haven't ___ (write) to her in ages.",
+      "answers": [
+        "written",
+        "wrote",
+        "writing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "Have you ___ (hear) the news?",
+      "answers": [
+        "hearing",
+        "hear",
+        "heard"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": "She has ___ (run) a marathon before.",
+      "answers": [
+        "ran",
+        "run",
+        "running"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "Have they ___ (pay) the bill yet?",
+      "answers": [
+        "paying",
+        "pay",
+        "paid"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "I've never ___ (speak) to the director before.",
+      "answers": [
+        "spoken",
+        "spoke",
+        "speaking"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": "He has ___ (lose) his wallet again.",
+      "answers": [
+        "losing",
+        "lost",
+        "lose"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "Prices have ___ (fall) sharply this month.",
+      "answers": [
+        "fall",
+        "fell",
+        "fallen"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "She's already ___ (send) the email.",
+      "answers": [
+        "sent",
+        "sended",
+        "sending"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "They have ___ (build) a new hospital.",
+      "answers": [
+        "building",
+        "built",
+        "builded"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "I haven't ___ (understand) a word he said.",
+      "answers": [
+        "understand",
+        "understanding",
+        "understood"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "Someone has ___ (break) the window!",
+      "answers": [
+        "broken",
+        "broke",
+        "breaking"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "He's ___ (spend) all his money.",
+      "answers": [
+        "spended",
+        "spent",
+        "spending"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "Have you ever ___ (drive) a sports car?",
+      "answers": [
+        "drove",
+        "driving",
+        "driven"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": "I've just ___ (buy) a new laptop.",
+      "answers": [
+        "bought",
+        "buyed",
+        "buying"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": "Has she ever ___ (wear) a traditional dress?",
+      "answers": [
+        "wore",
+        "worn",
+        "wearing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "Have they ___ (choose) a winner yet?",
+      "answers": [
+        "chose",
+        "choosing",
+        "chosen"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "The police have ___ (catch) the thief.",
+      "answers": [
+        "caught",
+        "catched",
+        "catching"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": "She's never ___ (fly) first class before.",
+      "answers": [
+        "flew",
+        "flown",
+        "flying"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "Who has ___ (throw) rubbish on the floor?",
+      "answers": [
+        "threw",
+        "throwing",
+        "thrown"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "question": "Have you ___ (eat) anything today?",
+      "answers": [
+        "eaten",
+        "ate",
+        "eating"
+      ],
+      "correct": 0
+    }
+  ],
+  "theory": {
+    "explanation": "Irregular Past Participle forms – Part II\n\nTwo important patterns:\n\nA) Past simple = Past participle (two forms the same):\n  hear  → heard → heard     pay  → paid → paid\n  lose  → lost  → lost      send → sent → sent\n  build → built → built     buy  → bought → bought\n  catch → caught → caught   spend → spent → spent\n\nB) Three different forms:\n  write → wrote → written   speak → spoke → spoken\n  fall  → fell  → fallen    drive → drove → driven\n  break → broke → broken    wear  → wore  → worn\n  choose → chose → chosen   fly   → flew  → flown\n  throw → threw → thrown    eat   → ate   → eaten\n  run   → ran   → run",
+    "examples": [
+      {
+        "sentence": "I haven't written to her in ages.",
+        "explanation": "write → wrote → written (three different forms). Past participle = written, not 'wrote'!"
+      },
+      {
+        "sentence": "She's already sent the email.",
+        "explanation": "send → sent → sent (past simple = past participle). Both sound the same."
+      },
+      {
+        "sentence": "Have you eaten anything today?",
+        "explanation": "eat → ate → eaten (three different forms). Past participle = eaten, not 'ate'!"
+      }
+    ]
+  }
+}

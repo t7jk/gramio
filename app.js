@@ -1,6 +1,6 @@
 const API = 'api.php';
-const GUEST_STORAGE_KEY = 'englearn_guest_profile';
-const GUEST_COOKIE = 'englearn_guest';
+const GUEST_STORAGE_KEY = 'gramio_guest_profile';
+const GUEST_COOKIE = 'gramio_guest';
 
 const PIN_DIGITS = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'];
 
@@ -45,6 +45,7 @@ const registerPinGrid = document.getElementById('register-pin-grid');
 const registerPinPreview = document.getElementById('register-pin-preview');
 const loginPinGrid = document.getElementById('login-pin-grid');
 const loginPinPreview = document.getElementById('login-pin-preview');
+const profileTableBody = document.getElementById('profile-table-body');
 
 // ---- Guest profile (mirrors server profile shape) ----
 function emptyGuestProfile() {
@@ -67,7 +68,7 @@ function loadGuestProfile() {
     if (raw) return normalizeGuestProfile(JSON.parse(raw));
   } catch (_) { /* ignore */ }
   try {
-    const m = document.cookie.match(/(?:^|; )englearn_guest=([^;]*)/);
+    const m = document.cookie.match(/(?:^|; )gramio_guest=([^;]*)/);
     if (m) {
       const decoded = decodeURIComponent(m[1]);
       const p = normalizeGuestProfile(JSON.parse(decoded));
@@ -96,8 +97,21 @@ function clearGuestStorage() {
 }
 
 function ensureGuestLesson(g, title) {
-  if (!g.lessons[title]) g.lessons[title] = { learned: [], points: 0, time_ms: 0 };
+  if (!g.lessons[title]) g.lessons[title] = { learned: [], points: 0, time_ms: 0, errors: 0 };
   return g.lessons[title];
+}
+
+// ---- Validation ----
+function normalizeUserName(raw) {
+  return raw.trim().toLowerCase();
+}
+
+function validateUserName(raw) {
+  const name = normalizeUserName(raw);
+  if (!name) return 'Enter a username.';
+  if (name.length > 50) return 'Username must be 50 characters or fewer.';
+  if (!/^[a-z0-9_-]+$/.test(name)) return 'Only letters a–z, digits 0–9, and - or _ are allowed.';
+  return null;
 }
 
 // ---- API ----
@@ -187,32 +201,44 @@ function renderLessonsList(lessons) {
   lessons.forEach((l) => {
     const done = l.learned >= l.total;
     const pct = l.total > 0 ? Math.round((l.learned / l.total) * 100) : 0;
-    const badge = done
-      ? '<span class="lesson-badge">Done</span>'
-      : l.learned === 0
-        ? '<span class="lesson-badge not-started">New</span>'
-        : `<span class="lesson-badge">${pct}%</span>`;
 
     const card = document.createElement('div');
     card.className = 'lesson-card' + (done ? ' done' : '');
-    card.innerHTML = `
-      <div class="lesson-info">
-        <div class="lesson-name">${l.title}</div>
-        <div class="lesson-stats">${l.learned} / ${l.total}</div>
-      </div>
-      ${badge}
-      <div class="lesson-actions">
-        <button type="button" class="btn btn-sm btn-primary start-btn" data-file="${l.file}" data-title="${l.title}" ${done ? 'disabled' : ''}>Start</button>
-        <button type="button" class="btn btn-sm btn-outline reset-btn" data-title="${l.title}">↺</button>
-      </div>`;
+
+    const info = document.createElement('div');
+    info.className = 'lesson-info';
+    const nameEl = document.createElement('div');
+    nameEl.className = 'lesson-name';
+    nameEl.textContent = l.title;
+    const statsEl = document.createElement('div');
+    statsEl.className = 'lesson-stats';
+    statsEl.textContent = `${l.learned} / ${l.total}`;
+    info.appendChild(nameEl);
+    info.appendChild(statsEl);
+
+    const badgeEl = document.createElement('span');
+    badgeEl.className = 'lesson-badge';
+    badgeEl.textContent = done ? 'Done' : `${pct}%`;
+
+    const actionsEl = document.createElement('div');
+    actionsEl.className = 'lesson-actions';
+    const startBtn = document.createElement('button');
+    startBtn.type = 'button';
+    startBtn.className = 'btn btn-sm btn-primary start-btn';
+    startBtn.dataset.file = l.file;
+    startBtn.dataset.title = l.title;
+    startBtn.disabled = done;
+    startBtn.textContent = 'Start';
+    actionsEl.appendChild(startBtn);
+
+    card.appendChild(info);
+    card.appendChild(badgeEl);
+    card.appendChild(actionsEl);
     lessonsList.appendChild(card);
   });
 
   lessonsList.querySelectorAll('.start-btn').forEach((btn) => {
     btn.addEventListener('click', () => startLesson(btn.dataset.file, btn.dataset.title));
-  });
-  lessonsList.querySelectorAll('.reset-btn').forEach((btn) => {
-    btn.addEventListener('click', () => resetLesson(btn.dataset.title));
   });
 }
 
@@ -259,17 +285,18 @@ document.getElementById('btn-register-pin-clear').addEventListener('click', () =
 });
 
 document.getElementById('btn-register-submit').addEventListener('click', async () => {
-  const name = document.getElementById('register-name').value.trim();
+  const nameErr = validateUserName(document.getElementById('register-name').value);
   const pin = pinString(registerPin);
   setAuthError(document.getElementById('register-error'), '');
-  if (!name) {
-    setAuthError(document.getElementById('register-error'), 'Enter a username.');
+  if (nameErr) {
+    setAuthError(document.getElementById('register-error'), nameErr);
     return;
   }
   if (!pin) {
     setAuthError(document.getElementById('register-error'), 'Choose 4 digits (one per column).');
     return;
   }
+  const name = normalizeUserName(document.getElementById('register-name').value);
   const r = await api('register', {}, { name, pin });
   if (r.error) {
     setAuthError(document.getElementById('register-error'), r.error);
@@ -300,13 +327,13 @@ document.getElementById('btn-login-back').addEventListener('click', () => {
 });
 
 document.getElementById('btn-login-next').addEventListener('click', () => {
-  const name = document.getElementById('login-name').value.trim();
+  const nameErr = validateUserName(document.getElementById('login-name').value);
   setAuthError(document.getElementById('login-error-step1'), '');
-  if (!name) {
-    setAuthError(document.getElementById('login-error-step1'), 'Enter your username.');
+  if (nameErr) {
+    setAuthError(document.getElementById('login-error-step1'), nameErr);
     return;
   }
-  loginUserName = name;
+  loginUserName = normalizeUserName(document.getElementById('login-name').value);
   document.getElementById('login-name-display').textContent = name;
   loginPin.fill(null);
   refreshLoginPinUI();
@@ -360,19 +387,92 @@ async function resetLesson(title) {
   if (!confirm(`Reset progress for "${title}"?`)) return;
   if (isLoggedIn) {
     await api('reset_lesson', {}, { lesson: title });
-    loadLessons();
+  } else {
+    const g = loadGuestProfile();
+    if (g.lessons[title]) {
+      const pts = g.lessons[title].points ?? 0;
+      const timeMs = g.lessons[title].time_ms ?? 0;
+      const errors = g.lessons[title].errors ?? 0;
+      g.points = Math.max(0, (g.points ?? 0) - pts);
+      g.total_time_ms = Math.max(0, (g.total_time_ms ?? 0) - timeMs);
+      g.total_errors = Math.max(0, (g.total_errors ?? 0) - errors);
+      g.lessons[title] = { learned: [], points: 0, time_ms: 0, errors: 0 };
+      saveGuestProfile(g);
+    }
+  }
+  await loadLessons();
+  await refreshProfileIfVisible();
+}
+
+async function getProfileViewData() {
+  if (isLoggedIn) {
+    const data = await api('profile');
+    if (data.error) return null;
+    return data;
+  }
+  const lessons = await api('lessons');
+  const g = loadGuestProfile();
+  lessons.forEach((l) => {
+    const learned = g.lessons[l.title]?.learned ?? [];
+    l.learned = Array.isArray(learned) ? learned.length : 0;
+  });
+  return {
+    name: (g.name && String(g.name).trim()) || 'Guest',
+    points: g.points ?? 0,
+    total_time_ms: g.total_time_ms ?? 0,
+    total_errors: g.total_errors ?? 0,
+    stats: lessons.map((l) => ({
+      title: l.title,
+      total: l.total,
+      learned: l.learned,
+      time_ms: g.lessons[l.title]?.time_ms ?? 0,
+      errors: g.lessons[l.title]?.errors ?? 0,
+    })),
+  };
+}
+
+function fillProfileTable(data) {
+  document.getElementById('profile-name').textContent = data.name;
+  document.getElementById('profile-points').textContent =
+    `Total points: ${data.points} | Errors: ${data.total_errors ?? 0} | Total time: ${formatTime(data.total_time_ms || 0)}`;
+  profileTableBody.innerHTML = '';
+  data.stats.forEach((s) => {
+    const pct = s.total > 0 ? Math.round((s.learned / s.total) * 100) : 0;
+    const tr = document.createElement('tr');
+    const cells = [s.title, String(s.total), String(s.learned), `${pct}%`, String(s.errors ?? 0), formatTime(s.time_ms || 0)];
+    cells.forEach((text) => {
+      const td = document.createElement('td');
+      td.textContent = text;
+      tr.appendChild(td);
+    });
+    const tdReset = document.createElement('td');
+    tdReset.className = 'profile-td-reset';
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'btn btn-sm btn-outline profile-reset-btn';
+    btn.textContent = 'Reset';
+    btn.dataset.title = s.title;
+    btn.setAttribute('aria-label', `Reset progress for ${s.title}`);
+    tdReset.appendChild(btn);
+    tr.appendChild(tdReset);
+    profileTableBody.appendChild(tr);
+  });
+}
+
+async function openProfileScreen() {
+  const data = await getProfileViewData();
+  if (!data) {
+    alert(isLoggedIn ? 'Could not load profile.' : 'Could not load progress.');
     return;
   }
-  const g = loadGuestProfile();
-  if (g.lessons[title]) {
-    const pts = g.lessons[title].points ?? 0;
-    const timeMs = g.lessons[title].time_ms ?? 0;
-    g.points = Math.max(0, (g.points ?? 0) - pts);
-    g.total_time_ms = Math.max(0, (g.total_time_ms ?? 0) - timeMs);
-    g.lessons[title] = { learned: [], points: 0, time_ms: 0 };
-    saveGuestProfile(g);
-  }
-  loadLessons();
+  fillProfileTable(data);
+  showScreen('profile');
+}
+
+async function refreshProfileIfVisible() {
+  if (!screenProfile.classList.contains('active')) return;
+  const data = await getProfileViewData();
+  if (data) fillProfileTable(data);
 }
 
 async function startLesson(file, title) {
@@ -420,7 +520,14 @@ async function startLesson(file, title) {
     data.theory.examples.forEach((ex) => {
       const card = document.createElement('div');
       card.className = 'example-card';
-      card.innerHTML = `<div class="example-sentence">${ex.sentence}</div><div class="example-explanation">${ex.explanation}</div>`;
+      const sentenceEl = document.createElement('div');
+      sentenceEl.className = 'example-sentence';
+      sentenceEl.textContent = ex.sentence;
+      const explanationEl = document.createElement('div');
+      explanationEl.className = 'example-explanation';
+      explanationEl.textContent = ex.explanation;
+      card.appendChild(sentenceEl);
+      card.appendChild(explanationEl);
       examplesList.appendChild(card);
     });
     theoryView.classList.remove('hidden');
@@ -441,9 +548,8 @@ function showQuestion() {
   const q = lessonQuestions[lessonIndex];
   answered = false;
 
-  const remaining = lessonQuestions.length - lessonIndex;
-  lessonProgress.textContent = `${remaining} left`;
-  progressBar.style.width = (((lessonTotal - remaining) / lessonTotal) * 100) + '%';
+  lessonProgress.textContent = `${lessonQuestions.length} left`;
+  progressBar.style.width = ((lessonLearned / lessonTotal) * 100) + '%';
 
   questionText.textContent = q.question;
   answersGrid.innerHTML = '';
@@ -517,6 +623,8 @@ async function handleAnswer(correct, chosenIdx, q) {
       }
     } else {
       le.learned = le.learned.filter((id) => id !== q.id);
+      le.errors = (le.errors ?? 0) + 1;
+      g.total_errors = (g.total_errors ?? 0) + 1;
     }
     saveGuestProfile(g);
   }
@@ -591,25 +699,20 @@ document.getElementById('btn-done-back').addEventListener('click', () => {
   loadLessons();
 });
 
-// ---- Profile screen ----
-document.getElementById('btn-profile').addEventListener('click', async () => {
-  const data = await api('profile');
-  if (data.error) {
-    alert(data.error);
-    return;
-  }
-  document.getElementById('profile-name').textContent = data.name;
-  document.getElementById('profile-points').textContent =
-    `Total points: ${data.points} | Total time: ${formatTime(data.total_time_ms || 0)}`;
-  const tbody = document.querySelector('#profile-table tbody');
-  tbody.innerHTML = '';
-  data.stats.forEach((s) => {
-    const pct = s.total > 0 ? Math.round((s.learned / s.total) * 100) : 0;
-    const tr = document.createElement('tr');
-    tr.innerHTML = `<td>${s.title}</td><td>${s.total}</td><td>${s.learned}</td><td>${pct}%</td><td>${formatTime(s.time_ms || 0)}</td>`;
-    tbody.appendChild(tr);
-  });
-  showScreen('profile');
+// ---- Profile / Progress screen ----
+document.getElementById('btn-profile').addEventListener('click', () => {
+  openProfileScreen();
+});
+
+document.getElementById('btn-open-progress').addEventListener('click', () => {
+  openProfileScreen();
+});
+
+document.getElementById('profile-table').addEventListener('click', (e) => {
+  const btn = e.target.closest('.profile-reset-btn');
+  if (!btn || !btn.dataset.title) return;
+  e.preventDefault();
+  resetLesson(btn.dataset.title);
 });
 
 document.getElementById('btn-profile-back').addEventListener('click', () => {

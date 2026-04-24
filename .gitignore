@@ -1,2 +1,7 @@
 profiles/*.json
 !profiles/.gitkeep
+deploy.sh
+.cursor/
+.claude/
+docs/
+theory_source.json

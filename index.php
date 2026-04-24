@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>EngLearn</title>
+  <title>Gramio</title>
   <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
@@ -13,10 +13,11 @@
   <!-- SCREEN: MENU -->
   <div id="screen-menu" class="screen active">
     <div class="container">
-      <h1>EngLearn</h1>
+      <h1>Gramio</h1>
       <div class="menu-actions hidden" id="auth-bar-guest">
         <button type="button" class="btn btn-primary" id="btn-open-register">Register</button>
         <button type="button" class="btn btn-outline" id="btn-open-login">Login</button>
+        <button type="button" class="btn btn-outline" id="btn-open-progress">Progress</button>
       </div>
       <div class="menu-actions hidden" id="auth-bar-user">
         <button type="button" class="btn btn-primary" id="btn-profile">Profile</button>
@@ -87,12 +88,12 @@
 
       <div id="theory-view" class="hidden">
         <div id="theory-text" class="theory-text"></div>
-        <button type="button" class="btn btn-primary btn-full" id="btn-theory-next">Dalej →</button>
+        <button type="button" class="btn btn-primary btn-full" id="btn-theory-next">Next →</button>
       </div>
 
       <div id="examples-view" class="hidden">
         <div id="examples-list" class="examples-list"></div>
-        <button type="button" class="btn btn-primary btn-full" id="btn-examples-next">Dalej →</button>
+        <button type="button" class="btn btn-primary btn-full" id="btn-examples-next">Next →</button>
       </div>
 
       <div id="question-area">
@@ -120,14 +121,14 @@
       <h2 id="profile-name"></h2>
       <p id="profile-points" class="profile-points"></p>
       <table id="profile-table" class="profile-table">
-        <thead><tr><th>Lesson</th><th>Total</th><th>Learned</th><th>%</th><th>Time</th></tr></thead>
-        <tbody></tbody>
+        <thead><tr><th>Lesson</th><th>Total</th><th>Learned</th><th>%</th><th>Errors</th><th>Time</th><th class="profile-th-reset">Reset</th></tr></thead>
+        <tbody id="profile-table-body"></tbody>
       </table>
     </div>
   </div>
 
 </div>
 
-<script src="app.js"></script>
+<script src="app.js?v=<?= filemtime(__DIR__.'/app.js') ?>"></script>
 </body>
 </html>
